@@ -1,5 +1,2235 @@
 [
  {
+  "Published (UTC)": "2026-09-07 01:13 UTC",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Ready-to-eat pork jowls recalled because of Listeria contamination",
+  "Link": "https://www.foodsafetynews.com/2026/09/ready-to-eat-pork-jowls-recalled-because-of-listeria-contamination",
+  "Retrieved (UTC)": "2026-09-07 05:56 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-06 02:04 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Foods Alive moringa powder recalled because of Salmonella contamination",
+  "Link": "https://www.foodsafetynews.com/2026/09/foods-alive-moringa-powder-recalled-because-of-salmonella-contamination",
+  "Retrieved (UTC)": "2026-09-06 04:21 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-05 03:48 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "GreenWise Frozen Blueberries E. coli O145 Outbreak Sickens 17",
+  "Link": "https://foodpoisoningbulletin.com/2026/greenwise-frozen-blueberries-e-coli-o145-outbreak-sickens-17",
+  "Retrieved (UTC)": "2026-09-05 05:33 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-05 03:15 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Midwest Poultry Eggs Salmonella Outbreak Ends With 134 Sick",
+  "Link": "https://foodpoisoningbulletin.com/2026/midwest-poultry-eggs-salmonella-outbreak-ends-with-134-sick",
+  "Retrieved (UTC)": "2026-09-05 05:33 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-05 02:50 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Evergreen Fresh Broccoli Sprouts Salmonella Outbreak Sickens 16",
+  "Link": "https://foodpoisoningbulletin.com/2026/evergreen-fresh-broccoli-sprouts-salmonella-outbreak-sickens-16",
+  "Retrieved (UTC)": "2026-09-05 05:33 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 20:18 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
+  "Retrieved (UTC)": "2026-09-04 22:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 19:38 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Grants Accelerated Approval to a New Breast Cancer Treatment",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment",
+  "Retrieved (UTC)": "2026-09-04 22:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 16:47 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Barilla’s Goodles acquisition reflects growing health food M&A trend",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/04/barilla-goodles-deal-follows-familiar-food-industry-playbook",
+  "Retrieved (UTC)": "2026-09-04 19:34 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 16:16 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 92 107 € prononcée à l'encontre du responsable de la société LE BETEF pour démarchage téléphonique abusif",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-92-107-eur-prononcee-lencontre-du-responsable-de-la-societe-le-betef-pour-demarchage",
+  "Retrieved (UTC)": "2026-09-04 16:14 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 14:57 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Swizzels takes crossover craze to next level with fragrance launch",
+  "Link": "https://www.confectionerynews.com/Article/2026/09/04/swizzels-takes-collaborations-beyond-the-confectionery-aisle-with-fragrance-launch",
+  "Retrieved (UTC)": "2026-09-04 16:14 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 13:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "The top 3 areas winning private label right now",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/04/the-top-3-trends-driving-private-label-growth",
+  "Retrieved (UTC)": "2026-09-04 16:14 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 13:24 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "CPGs could get relief from packaging claims patchwork, but with strings attached",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/04/cpgs-eye-relief-from-packaging-claims-patchwork",
+  "Retrieved (UTC)": "2026-09-04 16:14 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 13:13 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Campbell’s Co slashes dividend, cuts jobs and raises prices in $500M savings push",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/04/campbells-cuts-jobs-dividend-after-weak-quarter",
+  "Retrieved (UTC)": "2026-09-04 16:14 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 11:52 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Big Food’s Big Reset: Why the industry’s changing faster than ever",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/04/why-big-food-is-shifting-from-scale-to-focused-growth",
+  "Retrieved (UTC)": "2026-09-04 16:14 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 10:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "AI identifies nearly 800 plant proteins for next generation of meat substitutes",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/04/ai-identifies-plant-proteins-for-use-as-enzymes",
+  "Retrieved (UTC)": "2026-09-04 11:05 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 10:30 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Are consumers right to be concerned about food prices?",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/04/affordability-are-consumers-right-to-be-concerned",
+  "Retrieved (UTC)": "2026-09-04 11:05 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 09:52 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "PROCÈS VERBAL de la réunion du 27 mai 2026 du CES \"Santé et bien-être des animaux\"",
+  "Link": "https://www.anses.fr/fr/content/proces-verbal-de-la-reunion-du-27-mai-2026-du-ces-sante-et-bien-etre-des-animaux",
+  "Retrieved (UTC)": "2026-09-04 11:05 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 09:51 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "PROCÈS VERBAL de la réunion du 22 mai 2026 du CES \"Evaluation des risques liés aux milieux aériens\"",
+  "Link": "https://www.anses.fr/fr/content/proces-verbal-de-la-reunion-du-22-mai-2026-du-ces-evaluation-des-risques-lies-aux-milieux",
+  "Retrieved (UTC)": "2026-09-04 11:05 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 09:00 UTC",
+  "Pathogen": "Mycotoxin",
+  "Event": "News",
+  "Source": "Food Safety Magazine",
+  "Title": "Study Finds PFAS in All Tested Commercially Available Plant-Based Protein Supplements",
+  "Link": "https://www.food-safety.com/articles/11793-study-finds-pfas-in-all-tested-commercially-available-plant-based-protein-supplements",
+  "Retrieved (UTC)": "2026-09-04 11:05 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 09:00 UTC",
+  "Pathogen": "Mycotoxin",
+  "Event": "News",
+  "Source": "Food Safety Magazine",
+  "Title": "Polish Study Finds PFAS in All Tested Commercially Available Plant-Based Protein Supplements",
+  "Link": "https://www.food-safety.com/articles/11793-polish-study-finds-pfas-in-all-tested-commercially-available-plant-based-protein-supplements",
+  "Retrieved (UTC)": "2026-09-04 19:34 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 04:37 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Brand New: PepsiCo in Iraq, Carlsberg alliance and Kirin’s catch-22",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/04/brand-new-pepsico-in-iraq-carlsberg-alliance-and-kirins-catch-22",
+  "Retrieved (UTC)": "2026-09-04 05:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-04 04:05 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Patient count in Cyclospora outbreak in Michigan at more than 14,700",
+  "Link": "https://www.foodsafetynews.com/2026/09/patient-count-in-cyclospora-outbreak-in-michigan-at-more-than-14-700",
+  "Retrieved (UTC)": "2026-09-04 05:43 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 04:05 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "50 more people sick in UK Salmonella outbreak; total count tops 500",
+  "Link": "https://www.foodsafetynews.com/2026/09/50-more-people-sick-in-uk-salmonella-outbreak-total-count-tops-500",
+  "Retrieved (UTC)": "2026-09-04 05:43 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 04:04 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Salmonella outbreak traced to eggs declared over with more than 130 patients",
+  "Link": "https://www.foodsafetynews.com/2026/09/salmonella-outbreak-traced-to-eggs-declared-over-with-more-than-130-patients",
+  "Retrieved (UTC)": "2026-09-04 05:43 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 04:03 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "Illness",
+  "Source": "Food Safety News",
+  "Title": "Young girl dies after contracting HUS",
+  "Link": "https://www.foodsafetynews.com/2026/09/young-girl-dies-after-contracting-hus",
+  "Retrieved (UTC)": "2026-09-04 05:43 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 03:05 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Great Value Frozen Organic Berry Blend Recalled For E. coli O145",
+  "Link": "https://foodpoisoningbulletin.com/2026/great-value-frozen-organic-berry-blend-recalled-for-e-coli-o145",
+  "Retrieved (UTC)": "2026-09-04 05:43 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 02:45 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Recall",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Food To Live Greens and Powders Recalled For Salmonella",
+  "Link": "https://foodpoisoningbulletin.com/2026/food-to-live-greens-and-powders-recalled-for-salmonella",
+  "Retrieved (UTC)": "2026-09-04 05:43 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 02:22 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Salmonella outbreak linked to Evergreen Sprouts",
+  "Link": "https://www.foodsafetynews.com/2026/09/salmonella-outbreak-linked-to-evergreen-sprouts",
+  "Retrieved (UTC)": "2026-09-04 05:43 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-04 01:28 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "More people sick in outbreak traced to frozen imported berries",
+  "Link": "https://www.foodsafetynews.com/2026/09/more-people-sick-in-outbreak-traced-to-frozen-imported-berries",
+  "Retrieved (UTC)": "2026-09-04 05:43 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-03 19:48 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Approves First Drug to Treat Alexander Disease",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+  "Retrieved (UTC)": "2026-09-03 22:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 16:43 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "7 ingredients European food manufacturers are quietly falling out of love with",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/the-ingredients-food-makers-are-dropping",
+  "Retrieved (UTC)": "2026-09-03 19:45 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 15:39 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "M&M’s gets Practical Magic makeover as confectionery collaboration trend heats up",
+  "Link": "https://www.confectionerynews.com/Article/2026/09/03/mars-mms-brings-practical-magic-2-to-confectionery-amid-collaboration-boom",
+  "Retrieved (UTC)": "2026-09-03 16:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 15:01 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Issues Emergency Use Authorization for Drugs to Prevent and Treat New World Screwworm in Dogs and Cats",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats",
+  "Retrieved (UTC)": "2026-09-03 16:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 14:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "The next retail media win may not come from Amazon",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/why-mid-sized-brands-are-driving-retail-media-growth",
+  "Retrieved (UTC)": "2026-09-03 16:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 13:52 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Why are consumers choosing simplicity in meals?",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/americans-redefine-convenience-food-around-simplicity-and-protein",
+  "Retrieved (UTC)": "2026-09-03 16:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 13:40 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Allulose-containing products claiming zero sugar threatened with growing litigation",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/allulose-zero-sugar-claims-face-litigation",
+  "Retrieved (UTC)": "2026-09-03 16:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 13:32 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "EFSA",
+  "Title": "Guidance for submission for food additive evaluations",
+  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2012.2760",
+  "Retrieved (UTC)": "2026-09-04 11:05 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 12:52 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Seeks Public Input to Advance Development of Botanical Drug Products",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-advance-development-botanical-drug-products",
+  "Retrieved (UTC)": "2026-09-03 16:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 12:47 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "EFSA",
+  "Title": "Peer review of the pesticide risk assessment of the active substance Beauveria bassiana strain R444",
+  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10289",
+  "Retrieved (UTC)": "2026-09-03 16:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 12:47 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "EFSA",
+  "Title": "Statement on MRLs for difluoroacetic acid (DFA)",
+  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10302",
+  "Retrieved (UTC)": "2026-09-03 16:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 10:06 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Hershey names new CFO as expansion strategy accelerates",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/hershey-appoints-dave-hulays-cfo-as-it-accelerates-snacking-growth-strategy",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 09:47 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Why are single-flavour brands branching out?",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/after-eights-and-terrys-chocolate-orange-new-flavours-for-single-flavour-brands",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 08:42 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Foremost Farms to shut major cheese site",
+  "Link": "https://www.dairyreporter.com/Article/2026/09/03/foremost-farms-to-shut-major-cheese-site",
+  "Retrieved (UTC)": "2026-09-04 16:14 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 08:19 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Can food brands survive the rise of agentic commerce?",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/the-food-brands-ai-will-favour",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 07:56 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Bilan de la surveillance des encéphalopathies spongiformes des petits ruminants 2020-2021 en France",
+  "Link": "https://www.anses.fr/fr/content/bilan-de-la-surveillance-des-encephalopathies-spongiformes-des-petits-ruminants-2020-2021-0",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 06:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions: Retrait produit phytopharmaceutique par l'autorité de décision - SUNBRIGHT",
+  "Link": "https://www.anses.fr/fr/content/conclusions-retrait-produit-phytopharmaceutique-par-lautorite-de-decision-sunbright",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché par reconnaissance mutuelle d'un produit phytopharmaceutique - FLUGOL BLANC",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-par-reconnaissance-mutuelle-57",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Modification d'un permis de commerce parallèle d'un produit phytopharmaceutique - LEGACY PRO",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-modification-dun-permis-de-commerce-parallele-dun-produit",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Changement de composition non significatif (mineur) d'un produit phytopharmaceutique - TARTAROS",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-changement-de-composition-non-significatif-mineur-dun-produit-77",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Changement de composition non significatif (mineur) d'un produit phytopharmaceutique - REVUS",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-changement-de-composition-non-significatif-mineur-dun-produit-76",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit générique d'un produit phytopharmaceutique - CTPR SC",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dun-produit-generique-dun-93",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Nouveau permis de commerce parallèle d'un produit phytopharmaceutique - PHOSTYON PRO SC",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-nouveau-permis-de-commerce-parallele-dun-produit-60",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Changement de composition non significatif (mineur) d'un produit phytopharmaceutique - LIFE SCIENTIFIC CYPRODINIL/FLUDIOXONIL",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-changement-de-composition-non-significatif-mineur-dun-produit-75",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Ajout de nouveaux emballages à un produit phytopharmaceutique - KEMIFAM FLOW",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-ajout-de-nouveaux-emballages-un-produit-phytopharmaceutique-kemifam",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit générique d'un produit phytopharmaceutique - HERBITRIN",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dun-produit-generique-dun-92",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit générique d'un produit phytopharmaceutique - NEOLA",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dun-produit-generique-dun-91",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 04:03 UTC",
+  "Pathogen": "Bacillus cereus",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Fatal Bacillus cereus outbreak tied to restaurant",
+  "Link": "https://www.foodsafetynews.com/2026/09/fatal-bacillus-cereus-outbreak-tied-to-restaurant",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-03 02:57 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Global Food Tech Awards APAC heat opens: Why startups should apply and how to stand out",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/global-food-tech-awards-apac-heat-opens",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 01:47 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "FDA Focuses on Seed Supplier In Everything Sprouts Outbreak",
+  "Link": "https://foodpoisoningbulletin.com/2026/fda-focuses-on-seed-supplier-in-everything-sprouts-outbreak",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-03 01:14 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Cache and Box Elder County Salmonella Outbreak in Utah; 21 Sick",
+  "Link": "https://foodpoisoningbulletin.com/2026/cache-and-box-elder-county-salmonella-outbreak-in-utah-21-sick",
+  "Retrieved (UTC)": "2026-09-03 05:38 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-03 00:00 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Inscrivez-vous à partir du 14 septembre au concours 2027 d’inspecteur de la DGCCRF",
+  "Link": "https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/inscrivez-vous-partir-du-14-septembre-au-concours-2027-dinspecteur-de-la-dgccrf",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 16:09 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Why Europe leads in private label",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/02/private-label-performance-by-region",
+  "Retrieved (UTC)": "2026-09-02 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 15:01 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Mars launches world’s first digital chocolate bar",
+  "Link": "https://www.confectionerynews.com/Article/2026/09/02/mars-takes-snickers-into-ai-with-worlds-first-digital-chocolate-bar",
+  "Retrieved (UTC)": "2026-09-02 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 14:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Federal funding for healthier school meals creates new product and procurement opportunities for CPGs",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/02/hhs-and-usda-funding-initiatives-for-healthier-school-meals-pose-opportunities-for-cpg",
+  "Retrieved (UTC)": "2026-09-02 14:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 13:58 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Beyond ‘GLP-1 friendly’: The nutrition opportunity food brands are missing",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/02/healthy-aging-glp-1-products-and-beyond",
+  "Retrieved (UTC)": "2026-09-02 14:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 13:51 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "La société FRANCE RAPTOR SOLUTION enjointe de cesser ses pratiques commerciales trompeuses",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/la-societe-france-raptor-solution-enjointe-de-cesser-ses-pratiques-commerciales-trompeuses",
+  "Retrieved (UTC)": "2026-09-02 14:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 13:15 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Avis et rapport relatifs aux effets des horaires atypiques de travail - autres que le travail de nuit - sur la santé et la vie sociale et familiale",
+  "Link": "https://www.anses.fr/fr/content/AP-2011-SA-0088-RA",
+  "Retrieved (UTC)": "2026-09-02 14:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 08:33 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Nestlé sheds mainstream VMS business in $1bn deal",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/02/nestle-sells-mainstream-vms-business-to-yellow-wood-partners-in-1bn-deal",
+  "Retrieved (UTC)": "2026-09-02 09:26 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 07:32 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Sécurité sanitaire de la chaîne alimentaire (dangers, procédés, maîtrise)",
+  "Link": "https://www.anses.fr/fr/content/securite-sanitaire-de-la-chaine-alimentaire",
+  "Retrieved (UTC)": "2026-09-02 09:26 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 07:19 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Carob cracks gluten-free pasta’s biggest challenges",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/09/02/how-carob-flour-could-improve-gluten-free-pasta",
+  "Retrieved (UTC)": "2026-09-02 09:26 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 06:58 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "EFSA",
+  "Title": "Panel statement on young pine plants used for afforestation or reforestation as pathway for pinewood nematode (PWN) Bursaphelenchus xylophilus",
+  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10277",
+  "Retrieved (UTC)": "2026-09-02 09:26 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 06:56 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "EFSA",
+  "Title": "Safety of S-acetyl glutathione as an novel food pursuant to Regulation (EU) 2015/2283",
+  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10258",
+  "Retrieved (UTC)": "2026-09-02 09:26 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 04:06 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Confusion has been the constant in the Cyclospora outbreak",
+  "Link": "https://www.foodsafetynews.com/2026/09/confusion-has-been-the-constant-in-the-cyclospora-outbreak",
+  "Retrieved (UTC)": "2026-09-02 04:19 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-02 04:04 UTC",
+  "Pathogen": "Campylobacter",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "New Zealand and French studies call attention to Campylobacter",
+  "Link": "https://www.foodsafetynews.com/2026/09/small-new-zealand-study-calls-attention-to-campylobacter-in-chicken",
+  "Retrieved (UTC)": "2026-09-02 04:19 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-02 04:02 UTC",
+  "Pathogen": "Mycotoxin",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "German survey finds limited mycotoxin awareness",
+  "Link": "https://www.foodsafetynews.com/2026/09/german-survey-finds-limited-mycotoxin-awareness",
+  "Retrieved (UTC)": "2026-09-02 04:19 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-02 02:49 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Start-up Spotlight: Bebop, Zenko and biobased packaging",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/02/start-up-spotlight-bebop-zenko-and-biobased-packaging",
+  "Retrieved (UTC)": "2026-09-02 04:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 02:48 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Grass-fed dairy: Ireland eyes Asia’s premium nutrition boom",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/02/grass-fed-dairy-ireland-eyes-asias-premium-nutrition-boom",
+  "Retrieved (UTC)": "2026-09-02 04:19 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-02 02:13 UTC",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Cheese recalled in Canada because of Listeria contamination",
+  "Link": "https://www.foodsafetynews.com/2026/09/cheese-recalled-in-canada-because-of-listeria-contamination-2",
+  "Retrieved (UTC)": "2026-09-02 04:19 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-02 02:01 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Public health officials investigating Salmonella outbreak in Utah",
+  "Link": "https://www.foodsafetynews.com/2026/09/public-health-officials-investigating-salmonella-outbreak-in-utah",
+  "Retrieved (UTC)": "2026-09-02 04:19 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-01 22:26 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "FDA Sent Everything Sprouts A Warning Letter In 2025",
+  "Link": "https://foodpoisoningbulletin.com/2026/fda-sent-everything-sprouts-a-warning-letter-in-2025",
+  "Retrieved (UTC)": "2026-09-01 23:57 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-01 17:04 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Chobani buys back Keurig Dr Pepper’s $800M stake as it invests $1.2B in Pennsylvania plant",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/chobani-invests-12b-in-pa-dairy-production-repurchases-kdp-equity",
+  "Retrieved (UTC)": "2026-09-01 18:21 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 16:25 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Étiquetage des jus et nectars de fruits : les règles à connaître",
+  "Link": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/etiquetage-des-jus-et-nectars-de-fruits-les-regles-connaitre",
+  "Retrieved (UTC)": "2026-09-01 18:21 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 16:11 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 20 000 € prononcée à l’encontre du CARREFOUR MARKET, situé 61 Avenue Roger Salengro à Villeurbanne pour défaut d’affichage des prix",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-20-000-eur-prononcee-lencontre-du-carrefour-market-situe-61-avenue-roger-salengro",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 15:56 UTC",
+  "Pathogen": "",
+  "Event": "Outbreak",
+  "Source": "Food Navigator",
+  "Title": "Xylitol linked to heart attacks and strokes in major study",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/new-questions-over-xylitol-heart-risk",
+  "Retrieved (UTC)": "2026-09-01 18:21 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 15:45 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Nestlé launches biggest ever Christmas range as festive battle intensifies",
+  "Link": "https://www.confectionerynews.com/Article/2026/09/01/nestle-unveils-biggest-ever-christmas-confectionery-range",
+  "Retrieved (UTC)": "2026-09-01 18:21 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 14:40 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Sanction administrative d’un montant de 15 600 € à l’encontre de la SAS JULES pour défaut d’affichage des prix en vitrine",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/sanction-administrative-dun-montant-de-15-600-eur-lencontre-de-la-sas-jules-pour-defaut",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 14:00 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Abbott settlement and Kendamil case add to formula industry scrutiny",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/formula-industry-faces-legal-and-advertising-scrutiny",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 13:49 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Mondelēz, PepsiCo and pladis to take part in circular packaging trial",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/mondelez-pepsico-and-pladis-take-part-in-sustainable-packaging-trial",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 13:36 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Stagiaire \"Analyse des liens entre résistance antimicrobienne et virulence chez Escherichia colis \"",
+  "Link": "https://www.anses.fr/fr/content/stagiaire-analyse-des-liens-entre-resistance-antimicrobienne-et-virulence-chez-escherichia",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 13:32 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Back-to-school shopping trends shift among inflation and seasonal creep",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/back-to-school-shopping-trends-value-drives-2026",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 13:11 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "California passes non-UPF food seal, setting potential blueprint for other states",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/california-passes-non-upf-food-certification-bill",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 11:55 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Is the snack market slowing? How changing habits are reshaping the industry",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/is-the-snacking-market-slowing-how-consumer-habits-are-reshaping-the-market",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 10:59 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Should food businesses stay private?",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/should-food-companies-stay-private",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 10:18 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Innovation, trust and health credentials fuel growth for world’s leading non-alcoholic drinks brands",
+  "Link": "https://www.beveragedaily.com/Article/2026/09/01/innovation-trust-and-health-credentials-fuel-growth-for-worlds-leading-drinks-brands",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 09:48 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Big Food’s colour promises are colliding with supply chain reality",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/09/01/us-food-dye-phase-out-puts-natural-color-supply-chain-under-pressure",
+  "Retrieved (UTC)": "2026-09-01 14:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 05:27 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "‘All about health’: Bebop takes dairy-free ice cream across APAC",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/bebop-takes-dairy-free-ice-cream-across-apac",
+  "Retrieved (UTC)": "2026-09-01 09:55 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 05:25 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Creative friction: How Taiwan taps tradition for modern Asia",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/creative-friction-how-taiwan-taps-tradition-for-modern-asia",
+  "Retrieved (UTC)": "2026-09-01 09:55 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 05:23 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Carlsberg and Sapporo go in big on alliance in Asia, UK",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/01/carlsberg-and-sapporo-go-in-big-on-alliance-in-asia-uk",
+  "Retrieved (UTC)": "2026-09-01 09:55 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "COMPOSIL 150 MG/ML SUSPENSION INJECTABLE POUR BOVINS ET PORCINS",
+  "Link": "https://www.anses.fr/fr/content/composil-150-mgml-suspension-injectable-pour-bovins-et-porcins",
+  "Retrieved (UTC)": "2026-09-01 04:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-01 04:03 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Another sprout product under recall; seed supplier refuses to issue recall",
+  "Link": "https://www.foodsafetynews.com/2026/09/another-sprout-product-under-recall-seed-supplier-refuses-to-issue-recall",
+  "Retrieved (UTC)": "2026-09-01 04:53 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-01 03:40 UTC",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "Recall",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Northwest Naturals Raw Pet Food Recalled For Salmonella, Listeria",
+  "Link": "https://foodpoisoningbulletin.com/2026/northwest-naturals-raw-pet-food-recalled-for-salmonella-listeria",
+  "Retrieved (UTC)": "2026-09-01 04:53 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-01 03:25 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Everything Sprouts Recalls Recall to Include Robust Radish Mix",
+  "Link": "https://foodpoisoningbulletin.com/2026/everything-sprouts-recalls-recall-to-include-robust-radish-mix",
+  "Retrieved (UTC)": "2026-09-01 04:53 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-01 03:07 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Recall",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Martina Mangoes Recalled For Possible Salmonella",
+  "Link": "https://foodpoisoningbulletin.com/2026/martina-mangoes-recalled-for-possible-salmonella",
+  "Retrieved (UTC)": "2026-09-01 04:53 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-01 02:14 UTC",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Pet food recalled because of contamination with Listeria and Salmonella",
+  "Link": "https://www.foodsafetynews.com/2026/09/pet-food-recalled-because-of-contamination-with-listeria-and-salmonella",
+  "Retrieved (UTC)": "2026-09-01 04:53 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-31 16:59 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Safety Magazine",
+  "Title": "News That USDA Cyclospora Research Was Defunded in 2026 Emerges as Nation’s Largest-Ever Cyclosporiasis Outbreak Continues",
+  "Link": "https://www.food-safety.com/articles/11780-news-that-usda-cyclospora-research-was-defunded-in-2026-emerges-as-nations-largest-ever-cyclosporiasis-outbreak-continues",
+  "Retrieved (UTC)": "2026-08-31 23:44 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-31 14:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Raising the functional beverage bar: Drinks are becoming more specific and creative",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/31/soup-to-nuts-podcast-what-consumers-want-from-functional-beverages-now",
+  "Retrieved (UTC)": "2026-08-31 19:56 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 13:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Can ‘touchless’ preservation extend shelf life without adding ingredients?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/31/touchless-food-preservation-extends-shelf-life",
+  "Retrieved (UTC)": "2026-08-31 19:56 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 13:23 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Food’s new rules: Regulation, reformulation and the reinvention of legacy brands",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/31/news-bites-dietary-guidelines-gras-and-pepsicos-next-move",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 09:38 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 230 000 € prononcée à l’encontre de la société SPBI (numéro de SIRET : 49137270200135)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-230-000-eur-prononcee-lencontre-de-la-societe-spbi-numero-de-siret-49137270200135",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 09:22 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "EFSA",
+  "Title": "EFSA exchange with experts on welfare of cats and dogs",
+  "Link": "https://www.efsa.europa.eu/en/events/efsa-exchange-experts-welfare-cats-and-dogs",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 08:48 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n°2026-100 relative à la composition du Comité d'Experts Spécialisé \"Risques biologiques pour la santé des végétaux\"",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg2026-100-relative-la-composition-du-comite-dexperts-specialise-risques",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 08:46 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n°2026-099 relative à la composition du Comité d'Experts Spécialisé \"Nutrition humaine\"",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg2026-099-relative-la-composition-du-comite-dexperts-specialise-nutrition",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 08:45 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n°2026-098 relative à la composition du Comité d'Experts Spécialisé \"Evaluation des risques physico-chimiques dans les aliments\"",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg2026-098-relative-la-composition-du-comite-dexperts-specialise-evaluation-des",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 08:44 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n°2026-097 relative à la composition du Comité d'Experts Spécialisé \"Evaluation des risques biologiques dans les aliments\"",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg2026-097-relative-la-composition-du-comite-dexperts-specialise-evaluation-des",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 08:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n°2026-096 relative à la composition du Comité d'Experts Spécialisé \"Santé et bien-être des animaux\"",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg2026-096-relative-la-composition-du-comite-dexperts-specialise-sante-et-bien",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 08:39 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n°2026-095 relative à la composition du Comité d'Experts Spécialisé \"Alimentation animale\"",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg2026-095-relative-la-composition-du-comite-dexperts-specialise-alimentation",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 07:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n° 2026-142 du 27 août 2026 portant délégation de signature de la directrice générale de l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail pour le secrétariat général",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg-2026-142-du-27-aout-2026-portant-delegation-de-signature-de-la-directrice",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 07:34 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n° 2026-122 du 17 juillet 2026 portant délégation de signature de la directrice générale de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail pour le pôle «Produits réglementés»",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg-2026-122-du-17-juillet-2026-portant-delegation-de-signature-de-la-directrice",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 07:33 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n° 2026-121 du 17 juillet 2026 portant délégation de signature de la directrice générale de l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail pour le pôle « Recherche et Référence »",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg-2026-121-du-17-juillet-2026-portant-delegation-de-signature-de-la-directrice",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 05:52 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Japan earthquake 2026: Food labels relaxed but safety still paramount",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/31/japan-earthquake-2026-food-labels-relaxed-but-safety-still-paramount",
+  "Retrieved (UTC)": "2026-08-31 13:29 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-31 04:06 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Polish analysis finds outbreaks increasing",
+  "Link": "https://www.foodsafetynews.com/2026/08/polish-analysis-finds-outbreaks-increasing",
+  "Retrieved (UTC)": "2026-08-31 05:18 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-31 01:54 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Mangoes sold at Walmart recalled because of Salmonella risk",
+  "Link": "https://www.foodsafetynews.com/2026/08/mangoes-sold-at-walmart-recalled-because-of-salmonella-risk",
+  "Retrieved (UTC)": "2026-08-31 05:18 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-29 03:10 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Publisher's Platform: Hamburger E. coli was 95 percent of my practice until federal inspection ended it. On-farm slaughter would bring it back.",
+  "Link": "https://www.foodsafetynews.com/2026/08/publishers-platform-28",
+  "Retrieved (UTC)": "2026-08-29 09:57 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-28 21:22 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder",
+  "Retrieved (UTC)": "2026-08-29 02:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 20:46 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Three More States Added to Taylor Farms Iceberg Lettuce Cyclospora Outbreak",
+  "Link": "https://foodpoisoningbulletin.com/2026/three-more-states-added-to-taylor-farms-iceberg-lettuce-cyclospora-outbreak",
+  "Retrieved (UTC)": "2026-08-29 02:03 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-28 20:17 UTC",
+  "Pathogen": "Clostridium botulinum",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Nara Organics Infant Formula Botulism Outbreak Ends With 4 Sick",
+  "Link": "https://foodpoisoningbulletin.com/2026/nara-organics-infant-formula-botulism-outbreak-ends-with-4-sick",
+  "Retrieved (UTC)": "2026-08-29 02:03 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-28 15:27 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Lindt turns confectionery into couture with boundary-breaking collab",
+  "Link": "https://www.confectionerynews.com/Article/2026/08/28/lindt-turns-confectionery-into-couture-with-joe-ando-collaboration",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 14:58 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety Magazine",
+  "Title": "474 Cases, Two Deaths in Three UK Salmonella Outbreaks Likely Linked to Imported Eggs",
+  "Link": "https://www.food-safety.com/articles/11774-474-cases-two-deaths-in-three-uk-salmonella-outbreaks-likely-linked-to-imported-eggs",
+  "Retrieved (UTC)": "2026-08-29 02:03 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-28 14:14 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Safety Magazine",
+  "Title": "FDA Explains Recall Classifications to Get Ahead of Cyclospora Outbreak Panic",
+  "Link": "https://www.food-safety.com/articles/11773-fda-explains-recall-classifications-to-get-ahead-of-cyclospora-outbreak-panic",
+  "Retrieved (UTC)": "2026-08-29 02:03 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-28 13:39 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Top 10 shortlist announced for FoodNavigator’s Global Food Tech Awards EMEA heat",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/28/global-food-tech-awards-emea-top-10-shortlist",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 13:22 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Hormel’s retail segment hit by Q3 commodity turkey and snack nut declines",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/28/jennie-o-spam-applegate-and-hormel-chili-do-the-heavy-lifty-for-hormel-in-q3",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 12:12 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "PPWR is live – but label details overdue",
+  "Link": "https://www.foodmanufacture.co.uk/Article/2026/08/28/ppwr-is-live-but-label-details-overdue",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 11:02 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "The 7 trends shaping the future of confectionery",
+  "Link": "https://www.confectionerynews.com/Article/2026/08/28/the-7-trends-shaping-the-future-of-confectionery",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 10:24 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Unilever puts Colman’s up for sale amid competition concerns",
+  "Link": "https://www.foodmanufacture.co.uk/Article/2026/08/28/unilever-is-selling-colmans-to-quell-mustard-competition-fears",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 09:29 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 1 220 000 € prononcée à l’encontre de la société GE MEDICAL SYSTEMS (numéro de SIRET : 31501335900155)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-1-220-000-eur-prononcee-lencontre-de-la-societe-ge-medical-systems-numero-de-siret",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 09:15 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety Magazine",
+  "Title": "FDA Details Investigation Into 2026 Salmonella Outbreak Linked to Moringa Powder",
+  "Link": "https://www.food-safety.com/articles/11772-fda-details-investigation-into-2026-salmonella-outbreak-linked-to-moringa-powder",
+  "Retrieved (UTC)": "2026-08-29 02:03 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-28 08:28 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "How wine can adapt to a changing climate",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/28/how-can-wine-producers-adapt-to-climate-change",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 08:21 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Climate change is an existential threat to food",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/28/climate-change-is-existential-threat-to-food-production",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 07:36 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Packaging Happenings: Jinro, Kirin and biobased packaging",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/28/packaging-happenings-jinro-kirin-and-biobased-packaging",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 04:06 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Illness",
+  "Source": "Food Safety News",
+  "Title": "Hundreds sick and two dead in UK Salmonella outbreaks",
+  "Link": "https://www.foodsafetynews.com/2026/08/hundreds-sick-and-two-dead-in-uk-salmonella-outbreaks",
+  "Retrieved (UTC)": "2026-08-28 05:12 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-28 04:04 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Source unknown as Salmonella sickens 13 in Denmark",
+  "Link": "https://www.foodsafetynews.com/2026/08/source-unknown-as-salmonella-sickens-13-in-denmark",
+  "Retrieved (UTC)": "2026-08-28 05:12 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-28 04:03 UTC",
+  "Pathogen": "Clostridium botulinum",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Federal officials close investigation into outbreak of infant botulism traced to formula",
+  "Link": "https://www.foodsafetynews.com/2026/08/federal-officials-close-investigation-into-outbreak-of-infant-botulism-traced-to-formula",
+  "Retrieved (UTC)": "2026-08-28 05:12 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-27 23:14 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Cyclospora patients in outbreak linked to lettuce top 11,000; three more states added",
+  "Link": "https://www.foodsafetynews.com/2026/08/cyclospora-patients-in-outbreak-linked-to-lettuce-top-11-000",
+  "Retrieved (UTC)": "2026-08-28 05:12 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-27 19:51 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "General Mills removes artificial dyes from its entire cereal portfolio",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/general-mills-removes-dyes-from-its-cereals",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 19:16 UTC",
+  "Pathogen": "Clostridium botulinum",
+  "Event": "Outbreak",
+  "Source": "Food Safety Magazine",
+  "Title": "Nara Organics Infant Formula Botulism Outbreak Ends; WGS, Supply Chain Evidence Show Link to ByHeart",
+  "Link": "https://www.food-safety.com/articles/11771-nara-organics-infant-formula-botulism-outbreak-ends-wgs-supply-chain-evidence-show-link-to-byheart",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-27 19:11 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 16:55 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Issues Emergency Use Authorization for Generic Drug to Prevent New World Screwworm in Cattle",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-generic-drug-prevent-new-world-screwworm-cattle",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 14:33 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Global Top 100 Most Valuable Food Brands 2026 announced",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/global-top-100-most-valuable-food-brands-2026-announced",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 14:18 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Chargé de projet scientifique et technique en chimie analytique (H/F)",
+  "Link": "https://www.anses.fr/fr/content/charge-de-projet-scientifique-et-technique-en-chimie-analytique-hf",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:52 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 55 000 € prononcée à l’encontre de la société PAUL HARTMANN SAS (numéro de SIRET : 77874000100111)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-55-000-eur-prononcee-lencontre-de-la-societe-paul-hartmann-sas-numero-de-siret",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:51 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 58 000 € prononcée à l’encontre de la société TAPE A L'ŒIL (numéro de SIRET : 38963263901139)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-58-000-eur-prononcee-lencontre-de-la-societe-tape-loeil-numero-de-siret-38963263901139",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:50 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 55 000 € prononcée à l’encontre de la société OUILAB ESPACEBIO (numéro de SIRET : 77999875600018)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-55-000-eur-prononcee-lencontre-de-la-societe-ouilab-espacebio-numero-de-siret",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:49 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 22 000 € prononcée à l’encontre de la société DATA-ONE (numéro de SIRET : 42216567000015)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-22-000-eur-prononcee-lencontre-de-la-societe-data-one-numero-de-siret-42216567000015",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:48 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 53 000 € prononcée à l’encontre de la société AUTOLIV FRANCE (numéro de SIRET : 62200991800021)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-53-000-eur-prononcee-lencontre-de-la-societe-autoliv-france-numero-de-siret",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:46 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 14 000 € prononcée à l’encontre de la Société Nouvelle NOREA, devenue NOURIENCE (numéro de SIRET : 49319511900018)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-14-000-eur-prononcee-lencontre-de-la-societe-nouvelle-norea-devenue-nourience-numero",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:45 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 90 000 € prononcée à l’encontre de la société CORDIER, devenue VINADEIS (numéro de SIRET : 80339992200076)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-90-000-eur-prononcee-lencontre-de-la-societe-cordier-devenue-vinadeis-numero-de-siret",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:43 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 15 000 € prononcée à l’encontre de la société SUMIKA POLYMER COMPOUNDS FRANCE (numéro de SIRET : 35019314000026)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-15-000-eur-prononcee-lencontre-de-la-societe-sumika-polymer-compounds-france-numero-de",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:42 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 25 000 € prononcée à l’encontre de la société JOHN COCKERILL EE (numéro de SIRET : 39135884300053)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-25-000-eur-prononcee-lencontre-de-la-societe-john-cockerill-ee-numero-de-siret",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Post-doctorant(e), chargé(e) de projet en chimie analytique (H/F)",
+  "Link": "https://www.anses.fr/fr/content/post-doctorante-chargee-de-projet-en-chimie-analytique-hf",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 70 000 € prononcée à l’encontre de la société TRANSPORTS PORTMANN (numéro de SIRET : 94735237300056)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-70-000-eur-prononcee-lencontre-de-la-societe-transports-portmann-numero-de-siret",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 13:39 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 39 000 € prononcée à l’encontre de la société SAFE (numéro de SIRET : 45072613800107)",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-39-000-eur-prononcee-lencontre-de-la-societe-safe-numero-de-siret-45072613800107",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 12:38 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "PPWR PFAS limits: How to keep ‘forever chemicals’ out of packaging",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/how-to-comply-with-ppwr-pfas-limits",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 12:19 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "PepsiCo bets on global flavors to grow beyond snacks",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/pepsico-bets-on-global-flavors-to-grow-beyond-snacks",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 12:19 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Judge dismisses most of Ben & Jerry’s claims against Unilever",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/ben-jerrys-board-lawsuit-narrowed-magnum-replaces-unilever",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 12:19 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Uncrustables sales rise 12% as JM Smucker expands production",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/uncrustables-sales-rise-12-in-smucker-q1-results",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 12:18 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "FDA wants more GRAS oversight – but can it handle the workload?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/fdas-gras-plan-raises-questions-over-agency-resources",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 10:56 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Condamnation de la société EXPERCORSIMMO pour tromperie",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/condamnation-de-la-societe-expercorsimmo-pour-tromperie",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 10:46 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Nestlé coffee comeback starts beneath the surface",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/nestle-tackles-soil-degradation-and-farmer-exodus-in-bid-to-futureproof-coffee",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 10:43 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Kirin puts ¥43.8bn price tag on transition to green packaging",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/kirin-puts-438bn-price-tag-on-transition-to-green-packaging",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 10:39 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Not enough time? India gives 90-day deadline to re-label energy drinks",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/not-enough-time-india-gives-90-day-deadline-to-re-label-energy-drinks",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 10:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Le BRICOMARCHÉ D'HOMÉCOURT (54) sanctionné pour défaut de publicité des prix",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/le-bricomarche-dhomecourt-54-sanctionne-pour-defaut-de-publicite-des-prix",
+  "Retrieved (UTC)": "2026-08-27 09:22 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 10:30 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Publisher’s Platform: The Secretary Is Right About Real Food. Forty Percent of Americans Say They Are Eating Less of It Because of Cyclospora. Here Are Six Things HHS Could Do About That, and One Thing the Secretary Should Stop Doing.",
+  "Link": "https://www.foodsafetynews.com/2026/08/publishers-platform-the-secretary-is-right-about-real-food-forty-percent-of-americans-say-they-are-eating-less-of-it-because-of-cyclospora-here-are-six-things-hhs-could-do-about-that-an",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-27 10:18 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Brand packaging: Roku Gin’s tale of seasonal fleeting beauty",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/brand-packaging-roku-gins-tale-of-seasonal-fleeting-beauty",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 09:26 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Could climate change force a rewrite of the world’s recipes?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/climate-risks-push-food-makers-towards-new-ingredients",
+  "Retrieved (UTC)": "2026-08-27 20:17 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 09:25 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "L'Intermarché hyper de Neuves-Maisons (54) sanctionné pour défaut de publicité des prix",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/lintermarche-hyper-de-neuves-maisons-54-sanctionne-pour-defaut-de-publicite-des-prix",
+  "Retrieved (UTC)": "2026-08-27 09:22 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 07:29 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Which food trends are big in Africa?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/27/big-food-trends-in-africa",
+  "Retrieved (UTC)": "2026-08-27 09:22 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 04:05 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "More than 80 patients reported in new Salmonella outbreak",
+  "Link": "https://www.foodsafetynews.com/2026/08/more-than-80-patients-reported-in-new-salmonella-outbreak",
+  "Retrieved (UTC)": "2026-08-27 09:22 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-27 04:03 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Salmonella sickens 29 people in Spain",
+  "Link": "https://www.foodsafetynews.com/2026/08/salmonella-sickens-29-people-in-spain",
+  "Retrieved (UTC)": "2026-08-27 09:22 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-26 20:35 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Axtell Days Salmonella Outbreak Sickens Five, Two Hospitalized",
+  "Link": "https://foodpoisoningbulletin.com/2026/axtell-days-salmonella-outbreak-sickens-five-two-hospitalized",
+  "Retrieved (UTC)": "2026-08-26 23:18 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-26 20:16 UTC",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "Recall",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Compliments and Selection Corn Dogs Recalled For Listeria",
+  "Link": "https://foodpoisoningbulletin.com/2026/compliments-and-selection-corn-dogs-recalled-for-listeria",
+  "Retrieved (UTC)": "2026-08-26 23:18 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-26 19:52 UTC",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Deadly Clover Hill Soft Cheese Listeria Outbreak Ends With 15 Sick",
+  "Link": "https://foodpoisoningbulletin.com/2026/deadly-clover-hill-soft-cheese-listeria-outbreak-ends-with-15-sick",
+  "Retrieved (UTC)": "2026-08-26 23:18 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-26 15:40 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "New Managing Director for Nestlé Waters & Premium Beverages UK",
+  "Link": "https://www.beveragedaily.com/Article/2026/08/26/new-managing-director-for-nestle-waters-premium-beverages-uk",
+  "Retrieved (UTC)": "2026-08-27 09:22 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 14:52 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Barry Callebaut appoints ex-Mondelēz exec as COO",
+  "Link": "https://www.confectionerynews.com/Article/2026/08/26/barry-callebaut-appoints-ex-mondelez-exec-thomas-gaengler-as-coo",
+  "Retrieved (UTC)": "2026-08-26 16:24 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 14:33 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+  "Retrieved (UTC)": "2026-08-26 14:51 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 14:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Marion Nestle and former Kellogg exec team up on cereal industry exposé",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/26/marion-nestle-unboxes-cereals-food-policy-influence-in-new-book",
+  "Retrieved (UTC)": "2026-08-26 14:51 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 14:02 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Could FDA’s GRAS proposal chill investment in novel food ingredients?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/26/fda-gras-rule-could-affect-food-innovation-investment",
+  "Retrieved (UTC)": "2026-08-26 14:51 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 13:34 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Cultivated protein’s next phase? Integration over invention",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/26/cultivated-meats-next-growth-phase-hinges-on-technological-integration",
+  "Retrieved (UTC)": "2026-08-26 14:51 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 13:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Terms including ‘burger’ and ‘sausage’ could be added to EU ‘meaty’ names ban",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/26/terms-including-burger-and-sausage-could-be-added-to-eu-naming-ban",
+  "Retrieved (UTC)": "2026-08-26 14:51 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 11:40 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "The Gen Z Effect: Rewriting the rules of confectionery",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/26/what-confectionery-brands-need-to-know-about-gen-z",
+  "Retrieved (UTC)": "2026-08-26 13:07 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 10:04 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Assurance de la location immobilière : lisez bien les contrats !",
+  "Link": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/assurance-de-la-location-immobiliere-lisez-bien-les-contrats",
+  "Retrieved (UTC)": "2026-08-26 08:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 09:50 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Actualisation rupture AQUAVAC RELERA",
+  "Link": "https://www.anses.fr/fr/content/actualisation-rupture-aquavac-relera",
+  "Retrieved (UTC)": "2026-08-26 08:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 09:06 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "L'Intermarché SUPER de Ludres (54) sanctionné pour défaut de publicité des prix",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/lintermarche-super-de-ludres-54-sanctionne-pour-defaut-de-publicite-des-prix",
+  "Retrieved (UTC)": "2026-08-26 09:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 09:03 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "From farm resilience to nutrition security: APAC food leaders map priorities for a resilient food system",
+  "Link": "https://www.agnavigator.com/Article/2026/08/26/from-farm-resilience-to-nutrition-security-apac-food-leaders-map-priorities-for-a-resilient-food-system",
+  "Retrieved (UTC)": "2026-08-26 09:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 09:01 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 4 000 € prononcée à l’encontre de la société POMPES FUNÈBRES FABER pour défaut d'information",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-4-000-eur-prononcee-lencontre-de-la-societe-pompes-funebres-faber-pour-defaut",
+  "Retrieved (UTC)": "2026-08-26 08:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 08:57 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 4 000 € prononcée à l’encontre de la société POMPES FUNÈBRES MAGRET pour défaut d'information",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-4-000-eur-prononcee-lencontre-de-la-societe-pompes-funebres-magret-pour-defaut",
+  "Retrieved (UTC)": "2026-08-26 08:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 07:39 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "How food companies can prepare for the next drought",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/26/strategies-for-food-companies-to-prepare-for-drought",
+  "Retrieved (UTC)": "2026-08-26 08:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 04:01 UTC",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Scientists flag Listeria as an emerging threat in Pakistan",
+  "Link": "https://www.foodsafetynews.com/2026/08/scientists-flag-listeria-as-an-emerging-threat-in-pakistan",
+  "Retrieved (UTC)": "2026-08-26 04:49 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-26 03:18 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "A K-Pop star toad? Jinro taps Korean wave in limited-edition soju",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/26/a-k-pop-star-toad-jinro-taps-korean-wave-in-limited-edition-soju",
+  "Retrieved (UTC)": "2026-08-26 04:49 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 03:15 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Can US whiskey become ‘world’s whiskey’ despite trade hurdles?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/26/can-us-whiskey-become-worlds-whiskey-despite-trade-hurdles",
+  "Retrieved (UTC)": "2026-08-26 04:49 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-26 02:14 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "The 48 State Cyclospora Outbreak Grows to 29,024 Cases",
+  "Link": "https://foodpoisoningbulletin.com/2026/the-48-state-cyclospora-outbreak-grows-to-29024-cases",
+  "Retrieved (UTC)": "2026-08-26 03:13 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-26 01:13 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Patient count in Cyclospora outbreaks tops 17,000",
+  "Link": "https://www.foodsafetynews.com/2026/08/patient-count-in-cyclospora-outbreaks-tops-17-000",
+  "Retrieved (UTC)": "2026-08-26 01:49 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-26 00:32 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Axtell Days Salmonella Outbreak in Kansas Reported",
+  "Link": "https://foodpoisoningbulletin.com/2026/axtell-days-salmonella-outbreak-in-kansas-reported",
+  "Retrieved (UTC)": "2026-08-26 01:49 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-25 18:21 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+  "Retrieved (UTC)": "2026-08-25 18:49 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 15:57 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Would you eat a cookie made from a plastic bottle?",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/08/25/plastic-waste-cookies-put-food-science-to-the-test",
+  "Retrieved (UTC)": "2026-08-26 14:51 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 15:56 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Godiva turns 100 with star-studded centenary campaign",
+  "Link": "https://www.confectionerynews.com/Article/2026/08/25/godiva-celebrates-100-years-with-centenary-chocolates-and-animated-film",
+  "Retrieved (UTC)": "2026-08-25 16:47 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 15:55 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "What is sardinemaxxing?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/25/sardinemaxxing-nutrition-supply-and-demand",
+  "Retrieved (UTC)": "2026-08-25 16:47 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 13:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Rupture BUPRELAB 0,3 MG/ML SOLUTION INJECTABLE POUR CHIENS ET CHATS",
+  "Link": "https://www.anses.fr/fr/content/rupture-buprelab-03-mgml-solution-injectable-pour-chiens-et-chats",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 13:35 UTC",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Navigator",
+  "Title": "3 lessons from a year of high-profile food recalls",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/25/food-recall-trends-3-key-lessons-for-brands",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 13:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Rupture BUPRECARE MULTIDOSE 0,3 MG/ML SOLUTION INJECTABLE POUR CHIENS ET CHATS",
+  "Link": "https://www.anses.fr/fr/content/rupture-buprecare-multidose-03-mgml-solution-injectable-pour-chiens-et-chats",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 13:33 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Rupture BUPREDINE MULTIDOSE 0,3 MG/ML SOLUTION INJECTABLE POUR CHIENS, CHATS ET CHEVAUX",
+  "Link": "https://www.anses.fr/fr/content/rupture-bupredine-multidose-03-mgml-solution-injectable-pour-chiens-chats-et-chevaux",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 13:27 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Rupture BUPRECARE 0,3 MG/ML SOLUTION INJECTABLE POUR CHIENS ET CHATS",
+  "Link": "https://www.anses.fr/fr/content/rupture-buprecare-03-mgml-solution-injectable-pour-chiens-et-chats",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 13:26 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Better-for-you kids snacks expand at Target, Whole Foods and beyond",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/25/better-for-you-kids-snacks-grow-at-target-whole-foods",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 13:23 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Rupture VETERGESIC MULTIDOSE 0,3 MG/ML SOLUTION INJECTABLE POUR CHIENS ET CHATS",
+  "Link": "https://www.anses.fr/fr/content/rupture-vetergesic-multidose-03-mgml-solution-injectable-pour-chiens-et-chats",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 13:20 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "PepsiCo, Coca-Cola, Hershey & more drop into the spirit of Halloween with FOMO-inducing launches",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/25/halloween-is-changing-beverage-lto-strategy",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 13:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Why relevance is shaping the snacking category",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/25/snack-and-bakery-innovation-shifts-from-reinvention-to-relevance",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 12:50 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision n° 2026-141 portant délégation de signature de la directrice générale de l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail",
+  "Link": "https://www.anses.fr/fr/content/decision-ndeg-2026-141-portant-delegation-de-signature-de-la-directrice-generale-de-lagence",
+  "Retrieved (UTC)": "2026-08-25 13:02 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 10:01 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Could dropping ‘vegan’ unlock growth?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/25/should-plant-based-brands-stop-marketing-themselves-as-vegan",
+  "Retrieved (UTC)": "2026-08-25 10:40 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 09:44 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Annonces de réduction de prix : ce que vous devez savoir !",
+  "Link": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/annonces-de-reduction-de-prix-ce-que-vous-devez-savoir",
+  "Retrieved (UTC)": "2026-08-25 08:52 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 09:40 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "EFSA",
+  "Title": "Modification of the existing maximum residue levels for potassium phosphonates in various crops",
+  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10290",
+  "Retrieved (UTC)": "2026-08-25 09:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 09:39 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "EFSA",
+  "Title": "Modification of the existing maximum residue levels for flupyradifurone and difluoroacetic acid (DFA) in various crops",
+  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10287",
+  "Retrieved (UTC)": "2026-08-25 09:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 08:00 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Why food products live or die on shelf: A retailer’s perspective",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/08/25/supermarket-shelf-strategy-what-retailers-want-from-food-manufacturers",
+  "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 07:13 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Technicien animalier (H/F)",
+  "Link": "https://www.anses.fr/fr/content/technicien-animalier-hf",
+  "Retrieved (UTC)": "2026-08-25 08:52 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 06:43 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Aquaculture : de nouveaux virus chez les bars",
+  "Link": "https://www.anses.fr/fr/content/aquaculture-de-nouveaux-virus-chez-les-bars",
+  "Retrieved (UTC)": "2026-08-25 08:52 UTC",
+  "Category": "Regulatory"
+ },
+ {
   "Published (UTC)": "2026-08-25 03:25 UTC",
   "Pathogen": "",
   "Event": "News",
@@ -1560,6 +3790,16 @@
   "Category": "Outbreak"
  },
  {
+  "Published (UTC)": "2026-08-14 13:41 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Safety Magazine",
+  "Title": "FDA Begins Inspection at Taylor Farms Mexico as Official Cyclospora Outbreak Case Count Exceeds 10,000",
+  "Link": "https://www.food-safety.com/articles/11732-fda-begins-inspection-at-taylor-farms-mexico-as-official-cyclospora-outbreak-case-count-exceeds-10-000",
+  "Retrieved (UTC)": "2026-08-29 02:03 UTC",
+  "Category": "Outbreak"
+ },
+ {
   "Published (UTC)": "2026-08-14 13:27 UTC",
   "Pathogen": "",
   "Event": "News",
@@ -2560,1096 +4800,6 @@
   "Category": "Outbreak"
  },
  {
-  "Published (UTC)": "2026-08-07 23:05 UTC",
-  "Pathogen": "Listeria monocytogenes",
-  "Event": "Recall",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Coaticook White Cheddar Recalled in Canada For Possible Listeria",
-  "Link": "https://foodpoisoningbulletin.com/2026/coaticook-white-cheddar-recalled-in-canada-for-possible-listeria",
-  "Retrieved (UTC)": "2026-08-07 23:40 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-07 16:24 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Gestionnaire administratif (H/F)",
-  "Link": "https://www.anses.fr/fr/content/gestionnaire-administratif-hf",
-  "Retrieved (UTC)": "2026-08-07 17:00 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:32 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 156 000 € prononcée à l’encontre de la société IPSEN PHARMA BIOTECH (numéro de SIRET : 34783527400015)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-156-000-eur-prononcee-lencontre-de-la-societe-ipsen-pharma-biotech-numero-de-siret",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:31 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 1 610 000 € prononcée à l’encontre de la société CIRCET SAS (numéro de SIRET : 39007255100018)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-1-610-000-eur-prononcee-lencontre-de-la-societe-circet-sas-numero-de-siret",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:31 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 500 000 € prononcée à l’encontre de la société GROUPE ROCHER OPERATIONS-LECC (numéro de SIRET : 80852873100025)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-500-000-eur-prononcee-lencontre-de-la-societe-groupe-rocher-operations-lecc-numero-de",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:31 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 340 000 € prononcée à l’encontre de la société FIVES DMS (numéro de SIRET : 44457743100034)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-340-000-eur-prononcee-lencontre-de-la-societe-fives-dms-numero-de-siret-44457743100034",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 3 000 € prononcée à l’encontre de la société BD FRANCE PRODUCTION (numéro de SIRET : 95078405800014)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-3-000-eur-prononcee-lencontre-de-la-societe-bd-france-production-numero-de-siret",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 12 000 € prononcée à l’encontre de la société EO2 AUVERGNE (numéro de SIRET : 50030030600023)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-12-000-eur-prononcee-lencontre-de-la-societe-eo2-auvergne-numero-de-siret",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 16 000 € prononcée à l’encontre de la société ECRITEL (numéro de SIRET : 33248402100164)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-16-000-eur-prononcee-lencontre-de-la-societe-ecritel-numero-de-siret-33248402100164",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 55 000 € prononcée à l’encontre de la société CONDAT SA (numéro de SIRET : 71368073400017)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-55-000-eur-prononcee-lencontre-de-la-societe-condat-sa-numero-de-siret-71368073400017",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 28 000 € prononcée à l’encontre de la société FARMACLAIR (numéro de SIRET : 50270701100024)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-28-000-eur-prononcee-lencontre-de-la-societe-farmaclair-numero-de-siret-50270701100024",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 8 000 € prononcée à l’encontre de la société SKF-AEROENGINE (numéro de SIRET : 58210698500044)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-8-000-eur-prononcee-lencontre-de-la-societe-skf-aeroengine-numero-de-siret",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 26 000 € prononcée à l’encontre de la société STUDIO 89 PRODUCTIONS (numéro de SIRET : 42889512200011)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-26-000-eur-prononcee-lencontre-de-la-societe-studio-89-productions-numero-de-siret",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 58 000 € prononcée à l’encontre de la société PKF ARSILON CONSEIL (numéro de SIRET : 91304683500264)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-58-000-eur-prononcee-lencontre-de-la-societe-pkf-arsilon-conseil-numero-de-siret",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 13 000 € prononcée à l’encontre de la société PELLENC SA (numéro de SIRET : 30506118600014)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-13-000-eur-prononcee-lencontre-de-la-societe-pellenc-sa-numero-de-siret-30506118600014",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 40 000 € prononcée à l’encontre de la société CAIR LGL (numéro de SIRET : 34201499000085)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-40-000-eur-prononcee-lencontre-de-la-societe-cair-lgl-numero-de-siret-34201499000085",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 35 000 € prononcée à l’encontre de la société GATTEFOSSE SAS (numéro de SIRET : 38958690000018)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-35-000-eur-prononcee-lencontre-de-la-societe-gattefosse-sas-numero-de-siret",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 85 000 € prononcée à l’encontre de la société INITIAL DELTA SECURITE SA (numéro de SIRET : 97351001900050)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-85-000-eur-prononcee-lencontre-de-la-societe-initial-delta-securite-sa-numero-de-siret",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 15:03 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende de 5 000 € prononcée à l’encontre de la S.A.S PISSIER (numéro de SIRET : 59672020100026)",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-5-000-eur-prononcee-lencontre-de-la-sas-pissier-numero-de-siret-59672020100026",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 13:00 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "FDA Press Releases",
-  "Title": "FDA Issues Emergency Use Authorization for Drug to Prevent New World Screwworm in Multiple Species, Including Sheep, Cattle, Goats, and Swine",
-  "Link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-prevent-new-world-screwworm-multiple-species-including",
-  "Retrieved (UTC)": "2026-08-07 13:21 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 11:48 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Professionnels : les réponses à vos questions (FAQ) sur la commercialisation des œufs",
-  "Link": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/professionnels-les-reponses-vos-questions-faq-sur-la-commercialisation-des-oeufs",
-  "Retrieved (UTC)": "2026-08-07 15:01 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 11:25 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Prix des carburants : la station essence AUCHAN NÎMES sanctionnée d’une amende administrative de 7000 €",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/prix-des-carburants-la-station-essence-auchan-nimes-sanctionnee-dune-amende-administrative-de",
-  "Retrieved (UTC)": "2026-08-07 11:00 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 11:18 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Assessment of the feed additive consisting of lasalocid A sodium (Avatec® 150G) for turkeys, pheasants, guinea fowl, quails and partridges except laying birds thereof for the renewal of its authorisation (Zoetis Belgium SA)",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10247",
-  "Retrieved (UTC)": "2026-08-07 13:21 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 11:17 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Evaluation of confirmatory data following the Article 12 MRL review and setting of an import tolerance for fluopyram in limes",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10279",
-  "Retrieved (UTC)": "2026-08-07 13:21 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 11:17 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Safety and efficacy of a feed additive consisting of sodium nitrite for pigs, bovines, poultry, sheep, goats, rabbits and horses (ADDCON Europe GmbH)",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10246",
-  "Retrieved (UTC)": "2026-08-07 13:21 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 10:29 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "US dairy farm numbers set to fall below 20,000 amid industry consolidation",
-  "Link": "https://www.dairyreporter.com/Article/2026/08/07/us-dairy-farm-numbers-set-to-fall-below-20000-amid-industry-consolidation",
-  "Retrieved (UTC)": "2026-08-10 15:07 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 08:50 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Chargé de projet en virologie (H/F)",
-  "Link": "https://www.anses.fr/fr/content/charge-de-projet-en-virologie-hf",
-  "Retrieved (UTC)": "2026-08-07 09:12 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 07:50 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Why chocolate goes wrong in baking",
-  "Link": "https://www.bakeryandsnacks.com/Article/2026/08/07/why-chocolate-goes-wrong-in-baking-process-performance-and-pain-au-chocolat",
-  "Retrieved (UTC)": "2026-08-10 10:25 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 07:49 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Mars-Kellanova: What Brussels really decided about brand power",
-  "Link": "https://www.bakeryandsnacks.com/Article/2026/08/07/marskellanova-eu-merger-ruling-what-the-commissions-decision-means-for-food-and-snack-manufacturers",
-  "Retrieved (UTC)": "2026-08-10 08:45 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 07:34 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "WK Kellogg Co to cut artificial dyes and BHT a year ahead of schedule",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/07/wk-kellogg-is-ahead-of-schedule-on-its-goal-of-removing-petroleum-based-dyes-from-its-cereals-by-the-end-of-2027",
-  "Retrieved (UTC)": "2026-08-07 09:12 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 07:27 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Celsius rocked by earnings miss as Pepsi shift backfires",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/07/celsius-stock-drops-18-on-q2-earnings-miss-pepsico-rollout",
-  "Retrieved (UTC)": "2026-08-07 07:36 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 07:18 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Expertise hors évaluation des risques relative à une demande d'avis sur le projet de cahier des charges relatif aux protections périodiques réutilisables prises en charge par l'Assurance Maladie",
-  "Link": "https://www.anses.fr/fr/content/CONSO-2026-SA-0069",
-  "Retrieved (UTC)": "2026-08-07 07:36 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 04:18 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "Publisher’s Platform: I Have Been Told I Am Too Hard on Industry and on the Government. Here Are Fifteen Things They Could Do About Cyclospora.",
-  "Link": "https://www.foodsafetynews.com/2026/08/publishers-platform-i-have-been-told-i-am-too-hard-on-industry-and-on-the-government-here-are-fifteen-things-fda-and-cdc-could-do-about-cyclospora",
-  "Retrieved (UTC)": "2026-08-07 05:46 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-07 04:06 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "Taylor Farms says it's not responsible for Cyclospora outbreak",
-  "Link": "https://www.foodsafetynews.com/2026/08/taylor-farms-says-its-not-responsible-for-cyclospora-outbreak",
-  "Retrieved (UTC)": "2026-08-07 05:46 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-07 04:03 UTC",
-  "Pathogen": "E. coli / STEC",
-  "Event": "Illness",
-  "Source": "Food Safety News",
-  "Title": "Korean agency notes spike in illness cases",
-  "Link": "https://www.foodsafetynews.com/2026/08/korean-agency-notes-spike-in-illness-cases",
-  "Retrieved (UTC)": "2026-08-07 05:46 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-07 04:00 UTC",
-  "Pathogen": "Hepatitis A",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "Four hepatitis A infections linked to deli in Malta",
-  "Link": "https://www.foodsafetynews.com/2026/08/four-hepatitis-a-infections-linked-to-deli-in-malta",
-  "Retrieved (UTC)": "2026-08-07 05:46 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-07 02:33 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Trend Tracker: Clean label, GLP-1 and cultivated meat",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/07/trend-tracker-clean-label-glp-1-and-cultivated-meat",
-  "Retrieved (UTC)": "2026-08-07 03:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07 01:14 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "FDA On Chipotle and QDOBA Salmonella Jalapeño Outbreak",
-  "Link": "https://foodpoisoningbulletin.com/2026/fda-on-chipotle-and-qdoba-salmonella-jalapeno-outbreak",
-  "Retrieved (UTC)": "2026-08-07 03:55 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-07 00:41 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "First 5, Then 9, Now 15 States in Lettuce Cyclospora Outbreak",
-  "Link": "https://foodpoisoningbulletin.com/2026/first-5-then-9-now-15-states-in-lettuce-cyclospora-outbreak",
-  "Retrieved (UTC)": "2026-08-07 03:55 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-06 19:56 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "FDA Press Releases",
-  "Title": "FDA Approves New Engineered Viral Immunotherapy for Patients with Treatment-Resistant Advanced Melanoma",
-  "Link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
-  "Retrieved (UTC)": "2026-08-07 00:10 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 16:45 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Incendies et feux de forêt : quelles conséquences pour votre séjour en vacances ?",
-  "Link": "https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/incendies-et-feux-de-foret-quelles-consequences-pour-votre-sejour-en-vacances",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 16:40 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Arnaques après les incendies : comment éviter les pièges ?",
-  "Link": "https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/arnaques-apres-les-incendies-comment-eviter-les-pieges",
-  "Retrieved (UTC)": "2026-08-07 00:10 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 16:19 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Germany first EU country to launch Wegovy oral GLP-1",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/06/germany-first-to-launch-wegovy-pill",
-  "Retrieved (UTC)": "2026-08-07 00:10 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 15:57 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Nestlé breaks with 60 years of After Eight tradition",
-  "Link": "https://www.confectionerynews.com/Article/2026/08/06/nestle-expands-after-eight-beyond-mint-for-the-first-time-in-its-history",
-  "Retrieved (UTC)": "2026-08-07 00:10 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 15:27 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Kraft Heinz adds $100m to marketing push as breakup plan remains paused",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/06/kraft-heinz-adds-100m-to-marketing-breakup-still-paused",
-  "Retrieved (UTC)": "2026-08-07 00:10 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 15:18 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "FDA’s UPF definition may lack legal force, but not policy impact",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/06/fda-upf-white-paper-could-reshape-food-policy",
-  "Retrieved (UTC)": "2026-08-07 00:10 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 13:22 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Rupture ZYCORTAL 25 MG/ML SUSPENSION INJECTABLE A LIBERATION PROLONGEE POUR CHIENS",
-  "Link": "https://www.anses.fr/fr/content/rupture-zycortal-25-mgml-suspension-injectable-liberation-prolongee-pour-chiens-0",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 13:01 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Why Nestlé Waters chose joint venture over full exit",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/06/why-nestle-sold-50-of-its-waters-business-to-platinum-equity",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 12:20 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "From calories to nutrients: How diet culture has shifted",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/06/how-has-diet-culture-evolved",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 12:08 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Actualisation rupture POULVAC ENCEPHALO LYOPHILISAT POUR ADMINISTRATION DANS L'EAU DE BOISSON POUR POULES -",
-  "Link": "http://www.anses.fr/fr/content/actualisation-rupture-poulvac-encephalo-lyophilisat-pour-administration-dans-leau-de",
-  "Retrieved (UTC)": "2026-08-06 09:45 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 12:08 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Actualisation rupture POULVAC ENCEPHALO LYOPHILISAT POUR ADMINISTRATION DANS L'EAU DE BOISSON POUR POULES -",
-  "Link": "https://www.anses.fr/fr/content/actualisation-rupture-poulvac-encephalo-lyophilisat-pour-administration-dans-leau-de",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 11:26 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "How the food giants are protecting their supply chains in the face of El Niño",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/06/nestle-danone-barry-callebaut-kraft-heinz-how-food-giants-are-dealing-with-el-nino",
-  "Retrieved (UTC)": "2026-08-06 12:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 10:44 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "L’école d’enseignement supérieur privée ESGM & ProFormat - Pigier Mulhouse enjointe de supprimer plusieurs allégations trompeuses",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/lecole-denseignement-superieur-privee-esgm-proformat-pigier-mulhouse-enjointe-de-supprimer",
-  "Retrieved (UTC)": "2026-08-06 12:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 10:15 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Assessment of a feed additive consisting of montmorillonite-illite mixed layer clay mineral (1g557) for all animal species for the renewal of its authorisation (FIM Biotech GmbH)",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10244",
-  "Retrieved (UTC)": "2026-08-06 12:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 09:00 UTC",
-  "Pathogen": "Listeria monocytogenes",
-  "Event": "News",
-  "Source": "Food Safety Magazine",
-  "Title": "Study Shows Promise of Hydrogen Peroxide Treatment for Poultry Decontamination",
-  "Link": "https://www.food-safety.com/articles/11687-study-shows-promise-of-hydrogen-peroxide-treatment-for-poultry-decontamination",
-  "Retrieved (UTC)": "2026-08-06 12:08 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-06 08:08 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Beyond Meat’s decline continues, but Europe and Canada see growth",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/06/beyond-meat-q2-results-explained",
-  "Retrieved (UTC)": "2026-08-06 09:45 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 07:55 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Rupture ZYCORTAL 25 MG/ML SUSPENSION INJECTABLE A LIBERATION PROLONGEE POUR CHIENS",
-  "Link": "https://www.anses.fr/fr/content/rupture-zycortal-25-mgml-suspension-injectable-liberation-prolongee-pour-chiens",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 07:17 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Ferrara gives away Trolli-inspired trainers in bold new launch",
-  "Link": "https://www.confectionerynews.com/Article/2026/08/06/ferrara-launches-trolli-spicy-crawlers-with-free-jeff-cole-designed-trainers",
-  "Retrieved (UTC)": "2026-08-06 09:45 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "More than 6,000 patients identified in Cyclospora outbreak linked to Taylor Farms lettuce",
-  "Link": "https://www.foodsafetynews.com/2026/08/more-than-6-000-patients-identified-in-cyclospora-outbreak-linked-to-taylor-farms-lettuce",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Retrait Produit MFSC par l'autorité de décision - DIGESTAT SECHE",
-  "Link": "http://www.anses.fr/fr/content/decision-retrait-produit-mfsc-par-lautorite-de-decision-digestat-seche",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Modification de l'autorisation avec instruction administrative d'un produit phytopharmaceutique - PADELLI",
-  "Link": "http://www.anses.fr/fr/content/decision-modification-de-lautorisation-avec-instruction-administrative-dun-produit-345",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Transfert d'une autorisation de mise sur le marché à un autre titulaire d'un produit phytopharmaceutique - JUBILE",
-  "Link": "http://www.anses.fr/fr/content/decision-transfert-dune-autorisation-de-mise-sur-le-marche-un-autre-titulaire-dun-32",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Modification de l'autorisation avec instruction administrative d'un produit phytopharmaceutique - ZOXIS NEO",
-  "Link": "http://www.anses.fr/fr/content/decision-modification-de-lautorisation-avec-instruction-administrative-dun-produit-344",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Transfert d'une autorisation de mise sur le marché à un autre titulaire d'un produit phytopharmaceutique - FLEXITY",
-  "Link": "http://www.anses.fr/fr/content/decision-transfert-dune-autorisation-de-mise-sur-le-marche-un-autre-titulaire-dun-31",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Autorisation de mise sur le marché d'un produit phytopharmaceutique de revente - BALIZOR VITAL",
-  "Link": "http://www.anses.fr/fr/content/decision-autorisation-de-mise-sur-le-marche-dun-produit-phytopharmaceutique-de-revente-25",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Transfert d'une autorisation de mise sur le marché à un autre titulaire d'un produit phytopharmaceutique - DELAN WG",
-  "Link": "http://www.anses.fr/fr/content/decision-transfert-dune-autorisation-de-mise-sur-le-marche-un-autre-titulaire-dun-30",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Modification de l'autorisation avec instruction administrative d'un produit phytopharmaceutique - LS PROTHIO/SPIROX",
-  "Link": "http://www.anses.fr/fr/content/decision-modification-de-lautorisation-avec-instruction-administrative-dun-produit-343",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Modification produit phytopharmaceutique par l'autorité de décision - PREVICUR ENERGY",
-  "Link": "http://www.anses.fr/fr/content/decision-modification-produit-phytopharmaceutique-par-lautorite-de-decision-previcur-energy",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Retrait produit phytopharmaceutique par l'autorité de décision - STYLLIA SC",
-  "Link": "http://www.anses.fr/fr/content/decision-retrait-produit-phytopharmaceutique-par-lautorite-de-decision-styllia-sc",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Retrait Produit MFSC par l'autorité de décision - DIGESTAT SECHE",
-  "Link": "https://www.anses.fr/fr/content/decision-retrait-produit-mfsc-par-lautorite-de-decision-digestat-seche",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Modification de l'autorisation avec instruction administrative d'un produit phytopharmaceutique - PADELLI",
-  "Link": "https://www.anses.fr/fr/content/decision-modification-de-lautorisation-avec-instruction-administrative-dun-produit-345",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Transfert d'une autorisation de mise sur le marché à un autre titulaire d'un produit phytopharmaceutique - JUBILE",
-  "Link": "https://www.anses.fr/fr/content/decision-transfert-dune-autorisation-de-mise-sur-le-marche-un-autre-titulaire-dun-32",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Modification de l'autorisation avec instruction administrative d'un produit phytopharmaceutique - ZOXIS NEO",
-  "Link": "https://www.anses.fr/fr/content/decision-modification-de-lautorisation-avec-instruction-administrative-dun-produit-344",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Transfert d'une autorisation de mise sur le marché à un autre titulaire d'un produit phytopharmaceutique - FLEXITY",
-  "Link": "https://www.anses.fr/fr/content/decision-transfert-dune-autorisation-de-mise-sur-le-marche-un-autre-titulaire-dun-31",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Autorisation de mise sur le marché d'un produit phytopharmaceutique de revente - BALIZOR VITAL",
-  "Link": "https://www.anses.fr/fr/content/decision-autorisation-de-mise-sur-le-marche-dun-produit-phytopharmaceutique-de-revente-25",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Transfert d'une autorisation de mise sur le marché à un autre titulaire d'un produit phytopharmaceutique - DELAN WG",
-  "Link": "https://www.anses.fr/fr/content/decision-transfert-dune-autorisation-de-mise-sur-le-marche-un-autre-titulaire-dun-30",
-  "Retrieved (UTC)": "2026-08-06 15:22 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-06 04:03 UTC",
-  "Pathogen": "E. coli / STEC",
-  "Event": "Illness",
-  "Source": "Food Safety News",
-  "Title": "Italian child dies after decade-long E. coli battle",
-  "Link": "https://www.foodsafetynews.com/2026/08/italian-child-dies-after-decade-long-e-coli-battle",
-  "Retrieved (UTC)": "2026-08-06 06:39 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-06 00:30 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "Salmonella outbreak caused by imported jalapeño peppers has sickened hundreds",
-  "Link": "https://www.foodsafetynews.com/2026/08/salmonella-outbreak-caused-by-imported-jalapeno-peppers-has-sickened-hundreds",
-  "Retrieved (UTC)": "2026-08-06 03:26 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-06 00:07 UTC",
-  "Pathogen": "Listeria monocytogenes",
-  "Event": "Recall",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Highline Organic Mini Bella Mushrooms Recalled For Listeria",
-  "Link": "https://foodpoisoningbulletin.com/2026/highline-organic-mini-bella-mushrooms-recalled-for-listeria",
-  "Retrieved (UTC)": "2026-08-06 03:26 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-05 23:43 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Salmonella Jalapeño Outbreak Sickens 345, Chipotle and QDOBA",
-  "Link": "https://foodpoisoningbulletin.com/2026/salmonella-jalapeno-outbreak-sickens-345-chipotle-and-qdoba",
-  "Retrieved (UTC)": "2026-08-06 03:26 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-05 21:08 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "GLP-1 for weight loss exceeds use for diabetes management",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/05/glp-1-weight-loss-use-now-exceeds-diabetes-use",
-  "Retrieved (UTC)": "2026-08-05 21:20 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-05 19:42 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "FDA Press Releases",
-  "Title": "FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms",
-  "Link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms",
-  "Retrieved (UTC)": "2026-08-05 21:20 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-04 17:30 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Safety Magazine",
-  "Title": "Chipotle Identifies Potential Connection Between Salmonella Outbreak and Jalapeños",
-  "Link": "https://www.food-safety.com/articles/11702-chipotle-identifies-potential-connection-between-salmonella-outbreak-and-jalapenos",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-04 09:56 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Assessment of genetically modified RF3 Canola Quality (CQ) Brassica juncea (application EFSA-GMO-NL-2019-158)",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10178",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-03 17:38 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "Outbreak",
-  "Source": "Food Safety Magazine",
-  "Title": "State Counts for U.S. Cyclospora Cases Pass 21,000; Michigan Reports Two Deaths",
-  "Link": "https://www.food-safety.com/articles/11698-state-counts-for-us-cyclospora-cases-pass-21-000-michigan-reports-two-deaths",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-03 14:10 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Safety and efficacy of a feed additive consisting of nicarbazin (NICACOX®) for chickens for fattening and chickens reared for laying (Huvepharma N.V.)",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10251",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-03 13:25 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Scientific assessment of the 2024 post-market environmental monitoring report on the cultivation of genetically modified maize MON 810 in the EU",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10278",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-03 09:00 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "News",
-  "Source": "Food Safety Magazine",
-  "Title": "Study Identifies Optimal Poultry Transport Cage Washing Conditions to Reduce Salmonella",
-  "Link": "https://www.food-safety.com/articles/11677-study-identifies-optimal-poultry-transport-cage-washing-conditions-to-reduce-salmonella",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-07-31 12:27 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Peer review of the pesticide risk assessment of the active substance 8-methyldecan-2-yl propanoate",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10234",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-31 12:26 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Peer review of the pesticide risk assessment of the active substance Trichoderma asperellum T34",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10235",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-31 10:12 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Call for data for Talc E 553b",
-  "Link": "https://www.efsa.europa.eu/en/call/call-data-talc-e-553b",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-31 09:38 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Protocols for the development of the guidance on the risk assessment of PPP to non-target arthropods, in-soil organisms and non-target terrestrial plants",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10228",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-31 08:50 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Newsletter on Vector-borne Diseases in Animals July 2026",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10221",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-30 12:08 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Evaluation of confirmatory data following the Article 12 MRL review for beta-cyfluthrin",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10270",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-30 09:27 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Safety of a feed additive consisting of guar gum for all animal species (AIPG-Association for International Promotion of Gums)",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10241",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-29 16:10 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "FDA Press Releases",
-  "Title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
-  "Link": "http://www.fda.gov/news-events/press-announcements/fda-licenses-first-ever-freeze-dried-plasma-product-us",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-29 14:27 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Webinar on the pests list preparation",
-  "Link": "https://www.efsa.europa.eu/en/events/webinar-pests-list-preparation",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-29 13:19 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Update of the MCRA platform 2026: advanced data connectivity and transition to the operational phase",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10285",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-29 13:18 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Assessment of genetically modified soybean DAS-44406 × FG72 (dossier GMFF-2025-34192)",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10268",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-29 13:06 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Scientific Opinion on waiving of the dog studies in the regulatory process of agrochemicals approval",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10239",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-29 09:00 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "Outbreak",
-  "Source": "Food Safety Magazine",
-  "Title": "Congress Oversight Committee Probes Taylor Farms’ Alleged Attempts to Influence FDA’s Cyclospora Outbreak Investigation",
-  "Link": "https://www.food-safety.com/articles/11684-congress-oversight-committee-probes-taylor-farms-alleged-attempts-to-influence-fdas-cyclospora-outbreak-investigation",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-07-28 14:58 UTC",
-  "Pathogen": "E. coli / STEC",
-  "Event": "News",
-  "Source": "Food Safety Magazine",
-  "Title": "England Saw 2,500 STEC Cases in 2025, Holding Steady with Previous Year",
-  "Link": "https://www.food-safety.com/articles/11678-england-saw-2-500-stec-cases-in-2025-holding-steady-with-previous-year",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-07-28 13:24 UTC",
-  "Pathogen": "Listeria monocytogenes",
-  "Event": "News",
-  "Source": "Food Safety Magazine",
-  "Title": "Researchers Propose Listeria Biofilm Colonization Hypothesis to Explain Persistence in Food Processing Plants",
-  "Link": "https://www.food-safety.com/articles/11676-researchers-propose-listeria-biofilm-colonization-hypothesis-to-explain-persistence-in-food-processing-plants",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-07-28 12:27 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Safety of Anaerobutyricum soehngenii CH106 as a novel food pursuant to Regulation (EU) 2015/2283",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10255",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-28 12:26 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Literature horizon scan for new scientific data on plants, microorganisms and animals, and their products obtained by new genomic techniques (March 2026)",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10230",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-28 08:38 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Pesticide active substances that do not require a review of the existing maximum residue levels under Article 12 of Regulation (EC) No 396/2005",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10269",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-07-27 13:26 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Safety Magazine",
-  "Title": "Nearly 100 Sick in Multistate Salmonella Outbreak, Millions of Eggs Recalled",
-  "Link": "https://www.food-safety.com/articles/11667-nearly-100-sick-in-multistate-salmonella-outbreak-millions-of-eggs-recalled",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-07-27 12:14 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Peer review of the pesticide risk assessment of the active substance Trichoderma harzianum T78",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10197",
-  "Retrieved (UTC)": "2026-08-12 20:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-07T04:05:38Z",
-  "Pathogen": "",
-  "Event": "Recall",
-  "Source": "Food Safety News",
-  "Title": "Publisher’s Platform: Recall readiness is assumed, never measured",
-  "Link": "https://www.foodsafetynews.com/2026/08/publishers-platform-recall-readiness-is-assumed-never-measured/",
-  "Retrieved (UTC)": "2026-08-07T10:48:47Z",
-  "Category": ""
- },
- {
   "Published (UTC)": "2026-08-08T02:51:44Z",
   "Pathogen": "",
   "Event": "Recall",
@@ -3967,6 +5117,96 @@
   "Title": "The Sunday Edition: GMOs",
   "Link": "https://www.foodsafetynews.com/2026/08/the-sunday-edition-gmos/",
   "Retrieved (UTC)": "2026-08-23T13:51:12Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-08-25T04:03:49Z",
+  "Pathogen": "",
+  "Event": "Enforcement",
+  "Source": "Food Safety News",
+  "Title": "Contractor sentenced for faking food hygiene checks",
+  "Link": "https://www.foodsafetynews.com/2026/08/contractor-sentenced-for-faking-food-hygiene-checks/",
+  "Retrieved (UTC)": "2026-08-25T10:26:55Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-08-26T01:44:52Z",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Pickled goat and chicken recalled because of lack of USDA inspection",
+  "Link": "https://www.foodsafetynews.com/2026/08/pickled-goat-and-chicken-recalled-because-of-lack-of-usda-inspection/",
+  "Retrieved (UTC)": "2026-08-26T02:26:32Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-08-25T23:43:57Z",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Doughnuts recalled after consumer has reaction to undeclared allergen",
+  "Link": "https://www.foodsafetynews.com/2026/08/doughnuts-recalled-after-consumer-has-reaction-to-undeclared-allergen/",
+  "Retrieved (UTC)": "2026-08-26T02:26:32Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-08-25T23:34:58Z",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Canadian company recalls veggie chips in U.S. because of undeclared wheat",
+  "Link": "https://www.foodsafetynews.com/2026/08/canadian-company-recalls-veggie-chips-in-u-s-because-of-undeclared-wheat/",
+  "Retrieved (UTC)": "2026-08-26T02:26:32Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-08-27T04:01:02Z",
+  "Pathogen": "",
+  "Event": "Alert",
+  "Source": "Food Safety News",
+  "Title": "Supplements dominate cross-border alerts in Europe",
+  "Link": "https://www.foodsafetynews.com/2026/08/supplements-dominate-cross-border-alerts-in-europe/",
+  "Retrieved (UTC)": "2026-08-28T13:12:19Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-08-27T01:17:04Z",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Jalapeno ranch dip recalled because of undeclared eggs",
+  "Link": "https://www.foodsafetynews.com/2026/08/jalapeno-ranch-dip-recalled-because-of-undeclared-eggs/",
+  "Retrieved (UTC)": "2026-08-28T13:12:19Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-08-27T00:54:24Z",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Boston company recalls more than 12 tons of buffalo chicken products because of lack of inspection",
+  "Link": "https://www.foodsafetynews.com/2026/08/boston-company-recalls-more-than-12-tons-of-buffalo-chicken-products-because-of-lack-of-inspection/",
+  "Retrieved (UTC)": "2026-08-28T13:12:19Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-09-03T04:04:10Z",
+  "Pathogen": "",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "FDA outbreak table is showing 17 active investigations",
+  "Link": "https://www.foodsafetynews.com/2026/09/fda-outbreak-table-is-showing-17-investigations/",
+  "Retrieved (UTC)": "2026-09-04T18:02:49Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-09-03T04:01:54Z",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Asian countries rehearse food incident response",
+  "Link": "https://www.foodsafetynews.com/2026/09/asian-countries-rehearse-food-incident-response/",
+  "Retrieved (UTC)": "2026-09-04T18:02:49Z",
   "Category": ""
  }
 ]

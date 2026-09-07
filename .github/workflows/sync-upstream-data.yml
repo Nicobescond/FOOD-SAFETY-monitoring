@@ -1,0 +1,50 @@
+name: Sync data from upstream
+
+# This fork does not run its own scrape/enrich/review pipeline (that needs
+# Gemini/OpenAI/Anthropic API keys as repo secrets, which forks don't
+# inherit). Instead, this pulls the published docs/ output from the
+# upstream project (Visitune/FOOD-SAFETY-HORIZON-SCAN), which does run
+# that pipeline, and republishes it here — keeping the dashboard's data
+# fresh without duplicating the pipeline or its costs.
+#
+# docs/index.html is intentionally excluded: this fork carries a local
+# fix (product-type filter, see commit ccf062f) that upstream doesn't
+# have yet. Overwriting it here would silently reintroduce that bug.
+
+on:
+  schedule:
+    - cron: '20 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Fetch upstream docs/
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/Visitune/FOOD-SAFETY-HORIZON-SCAN.git /tmp/upstream
+          cd /tmp/upstream && git sparse-checkout set docs
+          test -s /tmp/upstream/docs/data/recalls.json || { echo "upstream docs/data/recalls.json missing or empty, aborting"; exit 1; }
+
+      - name: Copy over, keeping our index.html
+        run: |
+          cp -r /tmp/upstream/docs/. docs/
+          git checkout -- docs/index.html
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet && echo "No upstream changes" && exit 0
+          git commit -m "chore(sync): pull latest data from upstream Visitune/FOOD-SAFETY-HORIZON-SCAN"
+          git push
