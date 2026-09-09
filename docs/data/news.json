@@ -1,112 +1,12 @@
 [
  {
-  "Published (UTC)": "2026-09-09 10:13 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Manquement à l'information tarifaire pour l'établissement B&M de Bessoncourt",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/manquement-linformation-tarifaire-pour-letablissement-bm-de-bessoncourt",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-09 08:40 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "1st Animal Health Network Meeting",
-  "Link": "https://www.efsa.europa.eu/en/events/1st-animal-health-network-meeting",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-09 08:40 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Avis relatif à la demande de renouvellement de l’autorisation de mise sur le marché de fleurs coupées de l’œillet génétiquement modifié FLO-40685-2 (dossier C/NL/13/02_001) pour l’importation et la commercialisation",
-  "Link": "https://www.anses.fr/fr/content/PGM-2026-SA-0060",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-09 08:37 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Avis relatif à la demande de renouvellement de l’autorisation de mise sur le marché de fleurs coupées de l’oeillet génétiquement modifié SHD-27531-4 (dossier C/NL/13/01_001) pour l’importation et la commercialisation",
-  "Link": "https://www.anses.fr/fr/content/PGM-2026-SA-0059",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-09 08:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "3rd meeting of the Avian Influenza (AI) subgroup",
-  "Link": "https://www.efsa.europa.eu/en/events/3rd-meeting-avian-influenza-ai-subgroup",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-09 08:34 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Avis relatif à la demande de renouvellement d'autorisation d'importation et de commercialisation de fleurs coupées d'œillet génétiquement modifié FLO-40689-6 (dossier C/NL/06/01_002)",
-  "Link": "https://www.anses.fr/fr/content/PGM-2026-SA-0058",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-09 08:33 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "6th meeting of the One Health Surveillance Subgroup",
-  "Link": "https://www.efsa.europa.eu/en/events/6th-meeting-one-health-surveillance-subgroup",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-09 08:31 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Avis relatif à la demande de renouvellement d'autorisation d'importation et de commercialisation de fleurs coupées d'œillet génétiquement modifié FLO-40644-6 (dossier C/NL/04/02_001)",
-  "Link": "https://www.anses.fr/fr/content/PGM-2026-SA-0057",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-09 08:00 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Inside the leadership strategies reshaping British baking",
-  "Link": "https://www.bakeryandsnacks.com/Article/2026/09/09/british-baker-reveals-2026-bakery-leader-of-the-year-finalists",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-09 07:59 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "From breadbasket to growth market: How Grupo Bimbo, Nestlé and General Mills are redrawing LATAM’s food map",
-  "Link": "https://www.bakeryandsnacks.com/Article/2026/09/09/latin-america-food-market-bimbo-nestle-and-general-mills",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
-  "Category": "Regulatory"
- },
- {
   "Published (UTC)": "2026-09-09 06:48 UTC",
   "Pathogen": "",
   "Event": "News",
   "Source": "Food Navigator",
   "Title": "China’s cultivated meat push faces consumer reality",
   "Link": "https://www.foodnavigator.com/Article/2026/09/09/chinas-cultivated-meat-push-faces-consumer-reality",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
+  "Retrieved (UTC)": "2026-09-09 07:19 UTC",
   "Category": "Regulatory"
  },
  {
@@ -116,7 +16,7 @@
   "Source": "Food Navigator",
   "Title": "Inside Yili’s push to reinvent dairy with technology",
   "Link": "https://www.foodnavigator.com/Article/2026/09/09/inside-yilis-push-to-reinvent-dairy-with-technology",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
+  "Retrieved (UTC)": "2026-09-09 07:19 UTC",
   "Category": "Regulatory"
  },
  {
@@ -126,7 +26,7 @@
   "Source": "Food Navigator",
   "Title": "Martell taps Asian food culture to broaden cognac consumption",
   "Link": "https://www.foodnavigator.com/Article/2026/09/09/martell-taps-asian-food-culture-to-broaden-cognac-consumption",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
+  "Retrieved (UTC)": "2026-09-09 07:19 UTC",
   "Category": "Regulatory"
  },
  {
@@ -136,7 +36,7 @@
   "Source": "Food Safety News",
   "Title": "Largest Salmonella outbreak this year traced to backyard flocks",
   "Link": "https://www.foodsafetynews.com/2026/09/largest-salmonella-outbreak-this-year-traced-to-backyard-flocks",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
+  "Retrieved (UTC)": "2026-09-09 07:19 UTC",
   "Category": "Outbreak"
  },
  {
@@ -146,7 +46,7 @@
   "Source": "Food Poisoning Bulletin",
   "Title": "Made Fresh Salads and Cream Cheese Recalled For Listeria",
   "Link": "https://foodpoisoningbulletin.com/2026/made-fresh-salads-and-cream-cheese-recalled-for-listeria",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
+  "Retrieved (UTC)": "2026-09-09 07:19 UTC",
   "Category": "Outbreak"
  },
  {
@@ -156,7 +56,7 @@
   "Source": "Food Poisoning Bulletin",
   "Title": "Foods Alive Moringa Leaf Powder Recalled For Salmonella",
   "Link": "https://foodpoisoningbulletin.com/2026/foods-alive-moringa-leaf-powder-recalled-for-salmonella",
-  "Retrieved (UTC)": "2026-09-09 08:43 UTC",
+  "Retrieved (UTC)": "2026-09-09 07:19 UTC",
   "Category": "Outbreak"
  },
  {
@@ -5247,6 +5147,46 @@
   "Title": "Comprendre les consignes données aux populations lors des feux de forêt",
   "Link": "https://www.anses.fr/fr/content/comprendre-les-consignes-donnees-aux-populations-lors-des-feux-de-foret",
   "Retrieved (UTC)": "2026-08-17 09:51 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-10 08:29 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Jouets de type « Squishy » : prudence en attendant le résultat des expertises",
+  "Link": "https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/jouets-de-type-squishy-prudence-en-attendant-le-resultat-des-expertises",
+  "Retrieved (UTC)": "2026-08-10 08:45 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-10 08:27 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Baobab: A multi-purpose functional powerhouse continues to grow",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/10/baobab-growth-potential-as-a-functional-ingredient",
+  "Retrieved (UTC)": "2026-08-10 08:45 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-10 08:26 UTC",
+  "Pathogen": "",
+  "Event": "Outbreak",
+  "Source": "Food Navigator",
+  "Title": "GLP-1s could be linked to more than 150 deaths",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/10/glp-1s-may-be-linked-to-more-than-150-deaths",
+  "Retrieved (UTC)": "2026-08-10 08:45 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-10 07:20 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Could soaring whey prices make infant formula even more expensive?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/10/whey-price-could-put-pressure-on-infant-formula",
+  "Retrieved (UTC)": "2026-08-10 08:45 UTC",
   "Category": "Regulatory"
  },
  {
