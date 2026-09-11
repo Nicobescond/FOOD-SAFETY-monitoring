@@ -110,6 +110,16 @@
   "Category": "Regulatory"
  },
  {
+  "Published (UTC)": "2026-09-11 06:00 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Unilever veteran joins Kraft Heinz as CFO",
+  "Link": "https://www.foodmanufacture.co.uk/Article/2026/09/11/lucy-hovey-appointed-as-cfo-at-kraft-heinz",
+  "Retrieved (UTC)": "2026-09-11 20:35 UTC",
+  "Category": "Regulatory"
+ },
+ {
   "Published (UTC)": "2026-09-11 04:05 UTC",
   "Pathogen": "Salmonella spp.",
   "Event": "Outbreak",
@@ -5328,16 +5338,6 @@
   "Link": "https://www.foodsafetynews.com/2026/08/whole-foods-recalls-dozens-of-jalapeno-products-because-of-link-to-salmonella-outbreak",
   "Retrieved (UTC)": "2026-08-12 23:51 UTC",
   "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-12 16:36 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "PPWR implementation timeline: What manufacturers need to know",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/12/ppwr-timeline",
-  "Retrieved (UTC)": "2026-08-12 17:04 UTC",
-  "Category": "Regulatory"
  },
  {
   "Published (UTC)": "2026-08-12T23:00:41Z",
