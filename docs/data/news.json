@@ -1,75 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-09-11 08:23 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Setting of an import tolerance for fenazaquin in teas",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10306",
-  "Retrieved (UTC)": "2026-09-11 08:40 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-11 08:22 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Pathogens-in-Foods Database: Training Toolkit",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10309",
-  "Retrieved (UTC)": "2026-09-11 08:40 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-11 08:16 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "How do Italians feel about alt-protein?",
-  "Link": "https://www.foodnavigator.com/Article/2026/09/11/italian-views-on-alt-protein",
-  "Retrieved (UTC)": "2026-09-11 08:40 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-11 06:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "New Protein Watch: Dairy-free ice cream, China plans and EU ‘meaty’ ban",
-  "Link": "https://www.foodnavigator.com/Article/2026/09/11/new-protein-watch-dairy-free-ice-cream-china-plans-and-eu-meaty-ban",
-  "Retrieved (UTC)": "2026-09-11 08:40 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-11 04:05 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "UK Salmonella outbreak appears to be easing",
-  "Link": "https://www.foodsafetynews.com/2026/09/uk-salmonella-outbreak-appears-to-be-easing",
-  "Retrieved (UTC)": "2026-09-11 08:40 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-09-11 04:03 UTC",
-  "Pathogen": "E. coli / STEC",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "FDA quietly closes outbreak investigation naming romaine lettuce as cause",
-  "Link": "https://www.foodsafetynews.com/2026/09/fda-outbreak-investigations-continue-4",
-  "Retrieved (UTC)": "2026-09-11 08:40 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-09-11 04:01 UTC",
-  "Pathogen": "Clostridium botulinum",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "Pesto linked to botulism cases in Poland",
-  "Link": "https://www.foodsafetynews.com/2026/09/pesto-linked-to-botulism-cases-in-poland",
-  "Retrieved (UTC)": "2026-09-11 08:40 UTC",
-  "Category": "Outbreak"
- },
- {
   "Published (UTC)": "2026-09-11 02:11 UTC",
   "Pathogen": "Salmonella spp.",
   "Event": "Recall",
@@ -187,16 +117,6 @@
   "Title": "Re-evaluation of salt of aspartame-acesulfame (E 962) as food additive",
   "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10259",
   "Retrieved (UTC)": "2026-09-10 14:15 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-10 09:40 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "GLP-1 nutrition trend fuels premium whey demand",
-  "Link": "https://www.dairyreporter.com/Article/2026/09/10/us-and-europe-vie-for-premium-whey-as-demand-climbs",
-  "Retrieved (UTC)": "2026-09-11 08:40 UTC",
   "Category": "Regulatory"
  },
  {
@@ -5347,6 +5267,96 @@
   "Title": "Study Links Industrial Poultry Farming to Increased Spread, Adaptation of Campylobacter",
   "Link": "https://www.food-safety.com/articles/11720-study-links-industrial-poultry-farming-to-increased-spread-adaptation-of-campylobacter",
   "Retrieved (UTC)": "2026-08-12 11:53 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-12 07:49 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "PPWR: 6 things manufacturers need to know",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/12/ppwr-6-things-manufacturers-need-to-know",
+  "Retrieved (UTC)": "2026-08-12 08:24 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-12 07:47 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "From Grupo Bimbo to Warburtons: The billion-dollar battle for the bakery of the future",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/08/12/bakery-manufacturing-investment-boom-why-global-baking-giants-are-rebuilding-factories",
+  "Retrieved (UTC)": "2026-08-12 08:24 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-12 05:49 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Can processed food exports ease Egypt’s currency crisis?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/12/can-processed-food-exports-ease-egypts-currency-crisis",
+  "Retrieved (UTC)": "2026-08-12 06:21 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-12 05:40 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Unilever, Thai Union urge collaborative yet transferable sustainability",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/12/unilever-thai-union-urge-collaborative-yet-transferable-sustainability",
+  "Retrieved (UTC)": "2026-08-12 06:21 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-12 05:33 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Olipop unveils new leadership to support next growth phase",
+  "Link": "https://www.beveragedaily.com/Article/2026/08/12/olipop-founder-ben-goodwin-steps-into-innovation-role-as-christian-patino-webb-named-ceo",
+  "Retrieved (UTC)": "2026-08-12 15:05 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-12 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "OPHTALON VET 10 MG/G POMMADE OPHTALMIQUE POUR CHIENS ET CHATS",
+  "Link": "https://www.anses.fr/fr/content/ophtalon-vet-10-mgg-pommade-ophtalmique-pour-chiens-et-chats",
+  "Retrieved (UTC)": "2026-08-12 04:54 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-12 04:03 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Polish eggs linked to 4 French Salmonella outbreaks",
+  "Link": "https://www.foodsafetynews.com/2026/08/polish-eggs-linked-to-4-french-salmonella-outbreaks",
+  "Retrieved (UTC)": "2026-08-12 04:54 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-12 03:37 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Publisher’s Platform: On the Day CDC Confirmed 13,895 Cyclospora Cases, the Acting FDA Commissioner Told Americans to Feel Confident About Lettuce. We Need Leadership, Not Cheerleaders.",
+  "Link": "https://www.foodsafetynews.com/2026/08/publishers-platform-on-the-day-cdc-confirmed-13-895-cyclospora-cases-the-acting-fda-commissioner-told-americans-to-feel-confident-about-lettuce-we-need-leadership-not-cheerleaders",
+  "Retrieved (UTC)": "2026-08-12 04:54 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-12 03:37 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Recall",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Sprig & Sprout Jack & Olive Cibus Salads Recalled For Cyclospora",
+  "Link": "https://foodpoisoningbulletin.com/2026/sprig-sprout-jack-olive-cibus-salads-recalled-for-cyclospora",
+  "Retrieved (UTC)": "2026-08-12 04:54 UTC",
   "Category": "Outbreak"
  },
  {
