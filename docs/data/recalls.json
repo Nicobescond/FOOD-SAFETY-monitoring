@@ -1,21 +1,5 @@
 [
  {
-  "Date": "2026-09-11",
-  "Source": "USAV",
-  "Company": "Coop",
-  "Brand": "Naturaplan",
-  "Product": "Gamberi Jumbo bio 120g, Cocktail di gamberi bio 150g",
-  "Pathogen": "Salmonella",
-  "Reason": "Presenza di salmonelle",
-  "Class": "Avvertimento al pubblico",
-  "Country": "Switzerland",
-  "Region": "Europe",
-  "Tier": 1,
-  "Outbreak": 0,
-  "URL": "https://www.admin.ch/gov/it/pagina-iniziale/documentazione/comunicati.msg-id-105151.html",
-  "Notes": "REJECTED: http_error | Various lot numbers and expiry dates listed. Distributed in Coop supermarkets, Coop City, Coop Pronto, Coop.ch.  [via Gemini gap-finder + Google Search]"
- },
- {
   "Date": "2026-09-10",
   "Source": "FSAI (IE)",
   "Company": "De Bonte Weide",
@@ -46,38 +30,6 @@
   "Outbreak": 0,
   "URL": "https://rappel.conso.gouv.fr/fiche-rappel/23491/interne",
   "Notes": "ferme des aubriais [gemini-check 2026-09-10: fix; corrections: Company→LA FERME DES AUBRIAIS; fix; company mismatch | Company name corrected from 'Pas Concerné' to 'LA FERME DES AUBRIAIS' based on page content.]"
- },
- {
-  "Date": "2026-09-10",
-  "Source": "FSA",
-  "Company": "Waitrose",
-  "Brand": "Waitrose",
-  "Product": "Waitrose Essential Pitted Black Olives ... - Alerts",
-  "Pathogen": "Listeria monocytogenes",
-  "Reason": "Listeria monocytogenes",
-  "Class": "Recall",
-  "Country": "United Kingdom",
-  "Region": "Europe",
-  "Tier": 1,
-  "Outbreak": 0,
-  "URL": "https://alerts.food.gov.uk/news-alerts/alert/fsa-prin-44-2026",
-  "Notes": "REJECTED: http_error | 2 days ago · Waitrose recalls Waitrose Essential Pitted Black Olives because of contamination with Listeria monocytogenes. Food Alert , 10 September 2026 ...  [via DDGS gap-finder, deterministic extract]"
- },
- {
-  "Date": "2026-09-10",
-  "Source": "FSA",
-  "Company": "Waitrose",
-  "Brand": "Waitrose",
-  "Product": "Waitrose Essential Pitted Black Olives ... - Alerts",
-  "Pathogen": "Listeria monocytogenes",
-  "Reason": "Listeria monocytogenes",
-  "Class": "Recall",
-  "Country": "United Kingdom",
-  "Region": "Europe",
-  "Tier": 1,
-  "Outbreak": 0,
-  "URL": "https://alerts.food.gov.uk/article/6861/Waitrose-recalls-Waitrose-Essential-Pitted-Black-Olives-because-of-contamination-with-Listeria-monocytogenes",
-  "Notes": "REJECTED: http_error | 2 days ago · Waitrose recalls Waitrose Essential Pitted Black Olives because of contamination with Listeria monocytogenes. Food Alert , 10 September 2026 ...  [via DDGS gap-finder, deterministic extract]"
  },
  {
   "Date": "2026-09-09",
@@ -510,22 +462,6 @@
   "Outbreak": 0,
   "URL": "https://alerts.food.gov.uk/article/6857/Sainsburys-recalls-Inspired-to-Cook-by-Sainsburys-Pitted-Black-Olives-because-of-contamination-with-Listeria-monocytogenes",
   "Notes": "REJECTED: http_error | 2 days ago · Sainsbury's recalls Inspired to Cook by Sainsbury's Pitted Black Olives because of contamination with Listeria monocytogenes. Food Alert , 4 September 2026 00: ...  [via DDGS gap-finder, deterministic extract]"
- },
- {
-  "Date": "2026-09-04",
-  "Source": "OSAV",
-  "Company": "Carnadis Sàrl",
-  "Brand": "Carnadis",
-  "Product": "Produits emballés ou transformés par Carnadis Sàrl (viandes fraîches, préparations de viande, produits de charcuterie, produits à base de volaille, autres produits alimentaires)",
-  "Pathogen": "Listeria monocytogenes",
-  "Reason": "Présence de Listeria monocytogenes dans l'environnement de production, contamination ne peut être exclue",
-  "Class": "Mise en garde publique",
-  "Country": "Switzerland",
-  "Region": "Europe",
-  "Tier": 1,
-  "Outbreak": 0,
-  "URL": "https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-104996.html",
-  "Notes": "REJECTED: http_error | All article numbers and lot numbers potentially concerned.  [via Gemini gap-finder + Google Search]"
  },
  {
   "Date": "2026-09-03",
