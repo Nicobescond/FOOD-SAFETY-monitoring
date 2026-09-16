@@ -1,45 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-09-16 12:08 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Actualisation rupture POULVAC ENCEPHALO LYOPHILISAT POUR ADMINISTRATION DANS L'EAU DE BOISSON POUR POULES -",
-  "Link": "https://www.anses.fr/fr/content/actualisation-rupture-poulvac-encephalo-lyophilisat-pour-administration-dans-leau-de",
-  "Retrieved (UTC)": "2026-09-16 09:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-16 09:10 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Amende administrative infligée à la SAS POMPES FUNEBRES GARRETA",
-  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-administrative-infligee-la-sas-pompes-funebres-garreta",
-  "Retrieved (UTC)": "2026-09-16 09:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-16 09:10 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "FAQ pour les professionnels sur l’encadrement des jours, horaires et fréquence du démarchage téléphonique",
-  "Link": "https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/faq-pour-les-professionnels-sur-lencadrement-des-jours-horaires-et-frequence-du-demarchage-telephonique",
-  "Retrieved (UTC)": "2026-09-16 09:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-16 08:10 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Call for expressions of interest in EFSA’s advice for Novel Food SMEs – 2026 edition",
-  "Link": "https://www.efsa.europa.eu/en/call/call-expressions-interest-efsas-advice-novel-food-smes-2026-edition",
-  "Retrieved (UTC)": "2026-09-16 09:43 UTC",
-  "Category": "Regulatory"
- },
- {
   "Published (UTC)": "2026-09-16 03:35 UTC",
   "Pathogen": "Listeria monocytogenes",
   "Event": "Recall",
@@ -5388,6 +5348,46 @@
   "Link": "https://www.foodnavigator.com/Article/2026/08/17/confectionery-indulgence-evolves-from-more-is-more-to-worth-it",
   "Retrieved (UTC)": "2026-08-17 10:39 UTC",
   "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-17 09:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Oreo, Pringles and Pepperidge Farm turn scarcity into snack theatre",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/08/17/limited-edition-snacks-2026-the-latest-global-launches",
+  "Retrieved (UTC)": "2026-08-17 14:35 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-17 08:54 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Protein gold rush faces reckoning",
+  "Link": "https://www.foodmanufacture.co.uk/Article/2026/08/17/how-rising-demand-for-protein-is-putting-pressure-on-whey-supply",
+  "Retrieved (UTC)": "2026-08-18 11:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-17 08:00 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Achat d'un véhicule d’occasion : quelles sont les obligations du vendeur ?",
+  "Link": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/achat-dun-vehicule-doccasion-quelles-sont-les-obligations-du-vendeur",
+  "Retrieved (UTC)": "2026-08-17 07:09 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-17 04:03 UTC",
+  "Pathogen": "Hepatitis A",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Initial source unknown in Dutch hepatitis A outbreak",
+  "Link": "https://www.foodsafetynews.com/2026/08/initial-source-unknown-in-dutch-hepatitis-a-outbreak",
+  "Retrieved (UTC)": "2026-08-17 04:52 UTC",
+  "Category": "Outbreak"
  },
  {
   "Published (UTC)": "2026-08-17T04:05:48Z",
