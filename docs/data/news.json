@@ -1,5 +1,135 @@
 [
  {
+  "Published (UTC)": "2026-09-17 04:15 UTC",
+  "Pathogen": "Norovirus",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Alasko Frozen Raspberries Recalled in Canada For Norovirus",
+  "Link": "https://foodpoisoningbulletin.com/2026/alasko-frozen-raspberries-recalled-in-canada-for-norovirus",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "FDA releases executive summaries on two outbreak investigations",
+  "Link": "https://www.foodsafetynews.com/2026/09/fda-releases-executive-summaries-on-two-outbreak-investigations",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché par reconnaissance mutuelle d'une matière fertilisante ou d'un support de culture (Ensemble de produit) - N80",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-par-reconnaissance-mutuelle-60",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit générique d'un produit phytopharmaceutique - VOCASAD",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dun-produit-generique-dun-97",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Extension d'usages majeurs et mineurs d'un produit phytopharmaceutique - ERCOLE",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-extension-dusages-majeurs-et-mineurs-dun-produit-30",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit générique d'un produit phytopharmaceutique - VOLOS 200 SC",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dun-produit-generique-dun-96",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'une matière fertilisante ou d'un support de culture (Ensemble de produits) - REGROW SUSTAINABLE. NATURAL. EFFECTIVE.",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dune-matiere-fertilisante-ou-dun",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit générique d'un produit phytopharmaceutique - PYRACLOAXESS",
+  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dun-produit-generique-dun-95",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision: Autorisation de mise sur le marché d'une matière fertilisante ou d'un support de culture (Ensemble de produits) - REGROW SUSTAINABLE. NATURAL. EFFECTIVE.",
+  "Link": "https://www.anses.fr/fr/content/decision-autorisation-de-mise-sur-le-marche-dune-matiere-fertilisante-ou-dun-support-de",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision: Extension d'usages majeurs et mineurs d'un produit phytopharmaceutique - ERCOLE",
+  "Link": "https://www.anses.fr/fr/content/decision-extension-dusages-majeurs-et-mineurs-dun-produit-phytopharmaceutique-ercole",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision: Transfert d'une autorisation de mise sur le marché à un autre titulaire d'un produit phytopharmaceutique - NIRVANA S",
+  "Link": "https://www.anses.fr/fr/content/decision-transfert-dune-autorisation-de-mise-sur-le-marche-un-autre-titulaire-dun-55",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision: Modification de l'autorisation avec instruction administrative d'un produit phytopharmaceutique - ENERVIN ACTIVE",
+  "Link": "https://www.anses.fr/fr/content/decision-modification-de-lautorisation-avec-instruction-administrative-dun-produit-376",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-17 03:51 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Cyclospora Outbreak Sickens 19,883 With 1,064 Hospitalized",
+  "Link": "https://foodpoisoningbulletin.com/2026/cyclospora-outbreak-sickens-19883-with-1064-hospitalized",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Outbreak"
+ },
+ {
   "Published (UTC)": "2026-09-16 15:40 UTC",
   "Pathogen": "",
   "Event": "News",
@@ -128,6 +258,16 @@
   "Link": "https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/faq-pour-les-professionnels-sur-lencadrement-des-jours-horaires-et-frequence-du-demarchage-telephonique",
   "Retrieved (UTC)": "2026-09-16 16:17 UTC",
   "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-16 09:00 UTC",
+  "Pathogen": "Campylobacter",
+  "Event": "News",
+  "Source": "Food Safety Magazine",
+  "Title": "Study Explores qPCR Campylobacter Monitoring in Fecal, Air Samples on Poultry Farms",
+  "Link": "https://www.food-safety.com/articles/11825-study-explores-qpcr-campylobacter-monitoring-in-fecal-air-samples-on-poultry-farms",
+  "Retrieved (UTC)": "2026-09-17 05:50 UTC",
+  "Category": "Outbreak"
  },
  {
   "Published (UTC)": "2026-09-16 08:10 UTC",
@@ -5308,136 +5448,6 @@
   "Link": "https://www.dairyreporter.com/Article/2026/08/18/canadian-dairy-groups-urge-government-to-protect-food-sovereignty-in-us-trade-talks",
   "Retrieved (UTC)": "2026-08-18 14:40 UTC",
   "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-18 04:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "ZEEL VET SOLUTION INJECTABLE",
-  "Link": "https://www.anses.fr/fr/content/zeel-vet-solution-injectable",
-  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-18 04:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "ZEEL VET COMPRIMES",
-  "Link": "https://www.anses.fr/fr/content/zeel-vet-comprimes",
-  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-18 04:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "TRAUMEEL VET SOLUTION INJECTABLE",
-  "Link": "https://www.anses.fr/fr/content/traumeel-vet-solution-injectable",
-  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-18 04:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "TRAUMEEL VET COMPRIMES",
-  "Link": "https://www.anses.fr/fr/content/traumeel-vet-comprimes",
-  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-18 04:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "ENGYSTOL VET COMPRIMES",
-  "Link": "https://www.anses.fr/fr/content/engystol-vet-comprimes",
-  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-18 04:03 UTC",
-  "Pathogen": "Listeria monocytogenes",
-  "Event": "News",
-  "Source": "Food Safety News",
-  "Title": "Swiss scientists reveal Listeria trends",
-  "Link": "https://www.foodsafetynews.com/2026/08/swiss-scientists-reveal-listeria-trends",
-  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-18 04:00 UTC",
-  "Pathogen": "Campylobacter",
-  "Event": "News",
-  "Source": "Food Safety News",
-  "Title": "Proposals put forward to boost Croatian surveillance",
-  "Link": "https://www.foodsafetynews.com/2026/08/proposals-put-forward-to-boost-croatian-surveillance",
-  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-18 03:38 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Beyond calories: Why food brands must rethink ‘eating well’ for kids",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/18/why-food-brands-must-rethink-eating-well-for-kids",
-  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-18 02:24 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Recall",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Lacnola Lactation Granola Recalled For Possible Salmonella",
-  "Link": "https://foodpoisoningbulletin.com/2026/lacnola-lactation-granola-recalled-for-possible-salmonella",
-  "Retrieved (UTC)": "2026-08-18 03:03 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-18 00:29 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Ramona Family Market Salmonella Outbreak Grows To 21 Sick",
-  "Link": "https://foodpoisoningbulletin.com/2026/ramona-family-market-salmonella-outbreak-grows-to-21-sick",
-  "Retrieved (UTC)": "2026-08-18 01:43 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-17T04:05:48Z",
-  "Pathogen": "",
-  "Event": "Research",
-  "Source": "Food Safety News",
-  "Title": "EU countries test safety of plant-based products",
-  "Link": "https://www.foodsafetynews.com/2026/08/eu-countries-test-safety-of-plant-based-products/",
-  "Retrieved (UTC)": "2026-08-17T10:27:58Z",
-  "Category": ""
- },
- {
-  "Published (UTC)": "2026-08-17T04:05:30Z",
-  "Pathogen": "",
-  "Event": "Alert",
-  "Source": "Food Safety News",
-  "Title": "FDA warns California farm after inspectors find untreated manure on growing oranges",
-  "Link": "https://www.foodsafetynews.com/2026/08/fda-warns-california-farm-after-inspectors-find-untreated-manure-on-growing-oranges/",
-  "Retrieved (UTC)": "2026-08-17T10:27:58Z",
-  "Category": ""
- },
- {
-  "Published (UTC)": "2026-08-17T04:01:59Z",
-  "Pathogen": "",
-  "Event": "Alert",
-  "Source": "Food Safety News",
-  "Title": "FDA steps up enforcement on imported seafood, candy, canned foods",
-  "Link": "https://www.foodsafetynews.com/2026/08/fda-steps-up-enforcement-on-imported-seafood-candy-canned-foods/",
-  "Retrieved (UTC)": "2026-08-17T10:27:58Z",
-  "Category": ""
  },
  {
   "Published (UTC)": "2026-08-19T01:06:41Z",
