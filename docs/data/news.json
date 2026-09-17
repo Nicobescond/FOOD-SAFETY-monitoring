@@ -1,155 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-09-17 09:29 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Unilever McCormick deal faces scrutiny",
-  "Link": "https://www.foodnavigator.com/Article/2026/09/17/cma-probes-unilever-mccormick-foods-mega-deal",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 08:56 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "#NoBirdFlu: EFSA and European Commission announce practical resources to reduce bird flu risk",
-  "Link": "https://www.efsa.europa.eu/en/news/nobirdflu-efsa-and-european-commission-announce-practical-resources-reduce-bird-flu-risk",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 06:25 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Procès-verbal de réunion Comité de suivi des médicaments vétérinaires (CSMV) du 16/06/2026",
-  "Link": "https://www.anses.fr/fr/content/proces-verbal-de-reunion-comite-de-suivi-des-medicaments-veterinaires-csmv-du-16062026",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 04:15 UTC",
-  "Pathogen": "Norovirus",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Alasko Frozen Raspberries Recalled in Canada For Norovirus",
-  "Link": "https://foodpoisoningbulletin.com/2026/alasko-frozen-raspberries-recalled-in-canada-for-norovirus",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "Listeria monocytogenes",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "FDA releases executive summaries on two outbreak investigations",
-  "Link": "https://www.foodsafetynews.com/2026/09/fda-releases-executive-summaries-on-two-outbreak-investigations",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché par reconnaissance mutuelle d'une matière fertilisante ou d'un support de culture (Ensemble de produit) - N80",
-  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-par-reconnaissance-mutuelle-60",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit générique d'un produit phytopharmaceutique - VOCASAD",
-  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dun-produit-generique-dun-97",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Conclusions d'évaluation: Extension d'usages majeurs et mineurs d'un produit phytopharmaceutique - ERCOLE",
-  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-extension-dusages-majeurs-et-mineurs-dun-produit-30",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit générique d'un produit phytopharmaceutique - VOLOS 200 SC",
-  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dun-produit-generique-dun-96",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'une matière fertilisante ou d'un support de culture (Ensemble de produits) - REGROW SUSTAINABLE. NATURAL. EFFECTIVE.",
-  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dune-matiere-fertilisante-ou-dun",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit générique d'un produit phytopharmaceutique - PYRACLOAXESS",
-  "Link": "https://www.anses.fr/fr/content/conclusions-devaluation-autorisation-de-mise-sur-le-marche-dun-produit-generique-dun-95",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Autorisation de mise sur le marché d'une matière fertilisante ou d'un support de culture (Ensemble de produits) - REGROW SUSTAINABLE. NATURAL. EFFECTIVE.",
-  "Link": "https://www.anses.fr/fr/content/decision-autorisation-de-mise-sur-le-marche-dune-matiere-fertilisante-ou-dun-support-de",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Extension d'usages majeurs et mineurs d'un produit phytopharmaceutique - ERCOLE",
-  "Link": "https://www.anses.fr/fr/content/decision-extension-dusages-majeurs-et-mineurs-dun-produit-phytopharmaceutique-ercole",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Transfert d'une autorisation de mise sur le marché à un autre titulaire d'un produit phytopharmaceutique - NIRVANA S",
-  "Link": "https://www.anses.fr/fr/content/decision-transfert-dune-autorisation-de-mise-sur-le-marche-un-autre-titulaire-dun-55",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-17 03:51 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Cyclospora Outbreak Sickens 19,883 With 1,064 Hospitalized",
-  "Link": "https://foodpoisoningbulletin.com/2026/cyclospora-outbreak-sickens-19883-with-1064-hospitalized",
-  "Retrieved (UTC)": "2026-09-17 11:08 UTC",
-  "Category": "Outbreak"
- },
- {
   "Published (UTC)": "2026-09-16 15:40 UTC",
   "Pathogen": "",
   "Event": "News",
@@ -5418,6 +5268,126 @@
   "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/sp.efsa.2026.EN-10303",
   "Retrieved (UTC)": "2026-08-18 13:00 UTC",
   "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 10:15 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Nestlé bets big on GLP-1s with AI-powered nutrition push",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/18/nestle-targets-glp-1-users-with-ai-driven-food-and-nutrition-innovation",
+  "Retrieved (UTC)": "2026-08-18 10:36 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 09:47 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "What do consumers call GLP-1s?",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/18/what-do-consumers-call-glp-1s",
+  "Retrieved (UTC)": "2026-08-18 10:36 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 08:02 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Grupo Bimbo bets on the net-zero bakery",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/08/18/how-grupo-bimbo-is-decarbonising-industrial-bakeries-with-hydrogen-and-regenerative-agriculture",
+  "Retrieved (UTC)": "2026-08-18 14:40 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 06:30 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "News",
+  "Source": "Food Safety Magazine",
+  "Title": "Food Safety Five Ep. 36: Listeria, E. coli, Biofilms, Plastics, and Oil Adulteration",
+  "Link": "https://www.food-safety.com/articles/11733-food-safety-five-ep-36-listeria-e-coli-biofilms-plastics-and-oil-adulteration",
+  "Retrieved (UTC)": "2026-08-18 09:41 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-18 06:23 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Canadian dairy groups urge Government to protect food sovereignty in US trade talks",
+  "Link": "https://www.dairyreporter.com/Article/2026/08/18/canadian-dairy-groups-urge-government-to-protect-food-sovereignty-in-us-trade-talks",
+  "Retrieved (UTC)": "2026-08-18 14:40 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "ZEEL VET SOLUTION INJECTABLE",
+  "Link": "https://www.anses.fr/fr/content/zeel-vet-solution-injectable",
+  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "ZEEL VET COMPRIMES",
+  "Link": "https://www.anses.fr/fr/content/zeel-vet-comprimes",
+  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "TRAUMEEL VET SOLUTION INJECTABLE",
+  "Link": "https://www.anses.fr/fr/content/traumeel-vet-solution-injectable",
+  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "TRAUMEEL VET COMPRIMES",
+  "Link": "https://www.anses.fr/fr/content/traumeel-vet-comprimes",
+  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "ENGYSTOL VET COMPRIMES",
+  "Link": "https://www.anses.fr/fr/content/engystol-vet-comprimes",
+  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-18 04:03 UTC",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Swiss scientists reveal Listeria trends",
+  "Link": "https://www.foodsafetynews.com/2026/08/swiss-scientists-reveal-listeria-trends",
+  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-18 04:00 UTC",
+  "Pathogen": "Campylobacter",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Proposals put forward to boost Croatian surveillance",
+  "Link": "https://www.foodsafetynews.com/2026/08/proposals-put-forward-to-boost-croatian-surveillance",
+  "Retrieved (UTC)": "2026-08-18 04:43 UTC",
+  "Category": "Outbreak"
  },
  {
   "Published (UTC)": "2026-08-19T01:06:41Z",
