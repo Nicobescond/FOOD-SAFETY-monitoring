@@ -5300,6 +5300,36 @@
   "Category": "Regulatory"
  },
  {
+  "Published (UTC)": "2026-08-19 16:48 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Authorizes First-Of-Its-Kind Robotic Blood Draw Device",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-its-kind-robotic-blood-draw-device",
+  "Retrieved (UTC)": "2026-08-19 17:47 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-19T04:01:45Z",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "The last mile of a food safety recall: It is not complete until consumers are protected",
+  "Link": "https://www.foodsafetynews.com/2026/08/the-last-mile-of-a-food-safety-recall-it-is-not-complete-until-consumers-are-protected/",
+  "Retrieved (UTC)": "2026-08-19T10:24:03Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-08-19T03:48:38Z",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Frozen fruit bars recalled after consumers find glass pieces",
+  "Link": "https://www.foodsafetynews.com/2026/08/frozen-fruit-bars-recalled-after-consumers-find-glass-pieces/",
+  "Retrieved (UTC)": "2026-08-19T10:24:03Z",
+  "Category": ""
+ },
+ {
   "Published (UTC)": "2026-08-20T04:03:15Z",
   "Pathogen": "",
   "Event": "Outbreak",
