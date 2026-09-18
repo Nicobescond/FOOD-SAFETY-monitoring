@@ -1,65 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-09-18 07:25 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Can brands beat private label with feelings?",
-  "Link": "https://www.foodnavigator.com/Article/2026/09/18/private-label-vs-brands-can-brands-win-with-feelings",
-  "Retrieved (UTC)": "2026-09-18 08:50 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-18 06:52 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "25th meeting of the EFSA Scientific Network for Risk Assessment in Plant Health (PLH Risk assessment)",
-  "Link": "https://www.efsa.europa.eu/en/events/25th-meeting-efsa-scientific-network-risk-assessment-plant-health-plh-risk-assessment",
-  "Retrieved (UTC)": "2026-09-18 08:50 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-18 06:43 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "2nd meeting of the TSE subgroup of the Animal Health Network",
-  "Link": "https://www.efsa.europa.eu/en/events/2nd-meeting-tse-subgroup-animal-health-network",
-  "Retrieved (UTC)": "2026-09-18 08:50 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-18 06:39 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "16th meeting of the Pesticide Steering Network – IUCLID sub-group",
-  "Link": "https://www.efsa.europa.eu/en/events/16th-meeting-pesticide-steering-network-iuclid-sub-group",
-  "Retrieved (UTC)": "2026-09-18 08:50 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-18 06:28 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Webinar on micro- and nanoplastics",
-  "Link": "https://www.efsa.europa.eu/en/events/webinar-micro-and-nanoplastics",
-  "Retrieved (UTC)": "2026-09-18 08:50 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-18 04:05 UTC",
-  "Pathogen": "Hepatitis A",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "Details emerge about Italian hepatitis A outbreak",
-  "Link": "https://www.foodsafetynews.com/2026/09/details-emerge-about-italian-hepatitis-a-outbreak",
-  "Retrieved (UTC)": "2026-09-18 08:50 UTC",
-  "Category": "Outbreak"
- },
- {
   "Published (UTC)": "2026-09-18 01:13 UTC",
   "Pathogen": "Listeria monocytogenes",
   "Event": "Recall",
@@ -2960,16 +2900,6 @@
   "Category": "Regulatory"
  },
  {
-  "Published (UTC)": "2026-09-02 07:03 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "190th Plenary meeting of the FEEDAP Panel",
-  "Link": "https://www.efsa.europa.eu/en/events/190th-plenary-meeting-feedap-panel",
-  "Retrieved (UTC)": "2026-09-18 08:50 UTC",
-  "Category": "Regulatory"
- },
- {
   "Published (UTC)": "2026-09-02 06:58 UTC",
   "Pathogen": "",
   "Event": "News",
@@ -5318,6 +5248,116 @@
   "Link": "https://www.foodmanufacture.co.uk/Article/2026/08/19/one-person-dies-in-uk-wide-salmonella-outbreak",
   "Retrieved (UTC)": "2026-08-19 10:36 UTC",
   "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-19 08:34 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "From collectibles to drop culture: The trends transforming beverages",
+  "Link": "https://www.beveragedaily.com/Article/2026/08/19/from-collectibles-to-drop-culture-the-trends-transforming-beverages",
+  "Retrieved (UTC)": "2026-08-19 14:41 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-19 08:04 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Can culturally rooted snacks survive industrial scale?",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/08/19/how-snack-brands-can-scale-regional-foods-without-losing-authenticity",
+  "Retrieved (UTC)": "2026-08-19 14:41 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-19 08:04 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Overturning 7 industry assumptions about the GLP-1 consumer",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/08/19/new-glp-1-consumer-data-challenges-food-industry-forecasts",
+  "Retrieved (UTC)": "2026-08-20 13:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-19 06:56 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Britain can’t afford to lose control of its wheat",
+  "Link": "https://www.foodmanufacture.co.uk/Article/2026/08/19/why-uk-wheat-production-needs-a-precision-breeding-revolution",
+  "Retrieved (UTC)": "2026-08-19 18:46 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-19 06:47 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Our top 10 most-read F&B industry news from July 2026",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/19/our-top-10-most-read-fb-industry-news-from-july-2026",
+  "Retrieved (UTC)": "2026-08-19 06:56 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-19 05:37 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Bursting the health halo: Insights from India’s food safety landscape",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/19/bursting-the-health-halo-insights-from-indias-food-safety-landscape",
+  "Retrieved (UTC)": "2026-08-19 06:56 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-19 05:33 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Kirin’s big biotic drinks bet pays off in Asia",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/19/kirins-big-biotic-drinks-bet-pays-off-in-asia",
+  "Retrieved (UTC)": "2026-08-19 05:37 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-19 04:05 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Belgian Salmonella outbreak climbs to 300 cases",
+  "Link": "https://www.foodsafetynews.com/2026/08/belgian-salmonella-outbreak-climbs-to-300-cases",
+  "Retrieved (UTC)": "2026-08-19 04:44 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-19 04:03 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "UK reports Salmonella outbreak with 200 sick and one dead",
+  "Link": "https://www.foodsafetynews.com/2026/08/uk-reports-salmonella-outbreak-with-200-sick-and-one-dead",
+  "Retrieved (UTC)": "2026-08-19 04:44 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-19T01:06:41Z",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Bread recalled after pallet nail found in product",
+  "Link": "https://www.foodsafetynews.com/2026/08/bread-recalled-after-pallet-nail-found-in-product/",
+  "Retrieved (UTC)": "2026-08-19T02:25:35Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-08-19T00:52:21Z",
+  "Pathogen": "",
+  "Event": "Recall",
+  "Source": "Food Safety News",
+  "Title": "Almond spread recalled after allergic reaction reported",
+  "Link": "https://www.foodsafetynews.com/2026/08/almond-spread-recalled-after-allergic-reaction-reported/",
+  "Retrieved (UTC)": "2026-08-19T02:25:35Z",
+  "Category": ""
  },
  {
   "Published (UTC)": "2026-08-19T04:01:45Z",
