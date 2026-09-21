@@ -1,5 +1,45 @@
 [
  {
+  "Published (UTC)": "2026-09-21 08:32 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "趋势追踪：清洁标签、GLP-1 与培植肉",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/21/KGVFPU4PZZDCZB62QJUZXO7NZE",
+  "Retrieved (UTC)": "2026-09-21 09:41 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-21 07:26 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "5 ways the EU is transforming food and agriculture",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/21/5-eu-innovation-strategies-in-food-and-agriculture",
+  "Retrieved (UTC)": "2026-09-21 09:41 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-21 06:23 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "China food policies face test as consumers seek healthier choices",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/21/china-food-policies-face-test-as-consumers-seek-healthier-choices",
+  "Retrieved (UTC)": "2026-09-21 09:41 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-21 04:01 UTC",
+  "Pathogen": "Mycotoxin",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Finland assesses safety of plant-based dairy products",
+  "Link": "https://www.foodsafetynews.com/2026/09/finland-assesses-safety-of-plant-based-dairy-products",
+  "Retrieved (UTC)": "2026-09-21 09:41 UTC",
+  "Category": "Outbreak"
+ },
+ {
   "Published (UTC)": "2026-09-19 01:36 UTC",
   "Pathogen": "Listeria monocytogenes",
   "Event": "Recall",
@@ -4888,36 +4928,6 @@
   "Link": "https://www.foodsafetynews.com/2026/08/sprout-company-recalls-products-linked-to-15-state-outbreak",
   "Retrieved (UTC)": "2026-08-23 01:52 UTC",
   "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-22 07:58 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Everything Sprouts Salmonella Outbreak Grows to 55 Sick",
-  "Link": "https://foodpoisoningbulletin.com/2026/everything-sprouts-salmonella-outbreak-grows-to-55-sick",
-  "Retrieved (UTC)": "2026-08-22 08:39 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-22 07:57 UTC",
-  "Pathogen": "E. coli / STEC",
-  "Event": "Recall",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Everything Sprouts Recalls Alfalfa Sprouts For Salmonella & E. coli",
-  "Link": "https://foodpoisoningbulletin.com/2026/everything-sprouts-recalls-alfalfa-sprouts-for-salmonella-e-coli",
-  "Retrieved (UTC)": "2026-08-22 08:39 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-22T00:38:48Z",
-  "Pathogen": "",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "Patient count for parasite outbreak linked to lettuce tops 10,000",
-  "Link": "https://www.foodsafetynews.com/2026/08/patient-count-for-parasite-outbreak-linked-to-lettuce-tops-10-000/",
-  "Retrieved (UTC)": "2026-08-22T02:18:19Z",
-  "Category": ""
  },
  {
   "Published (UTC)": "2026-08-22T11:46:57Z",
