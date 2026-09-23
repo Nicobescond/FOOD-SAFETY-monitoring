@@ -1,5 +1,65 @@
 [
  {
+  "Published (UTC)": "2026-09-23 04:37 UTC",
+  "Pathogen": "Mycotoxin",
+  "Event": "Recall",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Wholesome Pantry Apple Sauce Recalled For Elevated Patulin",
+  "Link": "https://foodpoisoningbulletin.com/2026/wholesome-pantry-apple-sauce-recalled-for-elevated-patulin",
+  "Retrieved (UTC)": "2026-09-23 05:33 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-23 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "BOIRON",
+  "Link": "https://www.anses.fr/fr/decisions/etablissement-veterinaire/boiron-1",
+  "Retrieved (UTC)": "2026-09-23 05:33 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-23 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "BOIRON",
+  "Link": "https://www.anses.fr/fr/decisions/etablissement-veterinaire/boiron-0",
+  "Retrieved (UTC)": "2026-09-23 05:33 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-23 04:35 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "BOIRON",
+  "Link": "https://www.anses.fr/fr/decisions/etablissement-veterinaire/boiron",
+  "Retrieved (UTC)": "2026-09-23 05:33 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-23 04:03 UTC",
+  "Pathogen": "Norovirus",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Source of Belgian norovirus outbreak remains unknown",
+  "Link": "https://www.foodsafetynews.com/2026/09/source-of-belgian-norovirus-outbreak-remains-unknown",
+  "Retrieved (UTC)": "2026-09-23 05:33 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-23 03:59 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "GreenWise Blueberries E. coli O145 Outbreak Ends With 17 Sick",
+  "Link": "https://foodpoisoningbulletin.com/2026/greenwise-blueberries-e-coli-o145-outbreak-ends-with-17-sick",
+  "Retrieved (UTC)": "2026-09-23 05:33 UTC",
+  "Category": "Outbreak"
+ },
+ {
   "Published (UTC)": "2026-09-22 16:08 UTC",
   "Pathogen": "",
   "Event": "News",
@@ -5398,86 +5458,6 @@
   "Link": "https://www.anses.fr/fr/content/Bactrocera_MO25-011_Ans",
   "Retrieved (UTC)": "2026-08-24 08:57 UTC",
   "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-24 05:29 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Middle East Focus: UAE healthier system, OSK growth and Iran food casualties",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/24/middle-east-focus-uae-healthier-system-osk-growth-and-iran-food-casualties",
-  "Retrieved (UTC)": "2026-08-24 05:44 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-24 05:18 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Al Rawabi CEO: Localisation, convenience key to Middle East protein boom",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/24/al-rawabi-ceo-localisation-convenience-key-to-middle-east-protein-boom",
-  "Retrieved (UTC)": "2026-08-24 05:44 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-24 04:06 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "UK most affected in multi-country Salmonella outbreak",
-  "Link": "https://www.foodsafetynews.com/2026/08/uk-most-affected-in-multi-country-salmonella-outbreak",
-  "Retrieved (UTC)": "2026-08-24 04:54 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-24 04:04 UTC",
-  "Pathogen": "Listeria monocytogenes",
-  "Event": "News",
-  "Source": "Food Safety News",
-  "Title": "FDA warns California raw pet food maker after Listeria found in products",
-  "Link": "https://www.foodsafetynews.com/2026/08/fda-warns-california-raw-pet-food-maker-after-listeria-found-in-products",
-  "Retrieved (UTC)": "2026-08-24 04:54 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-24 04:03 UTC",
-  "Pathogen": "E. coli / STEC",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "High-risk food linked to fatal Belgian E. coli outbreak",
-  "Link": "https://www.foodsafetynews.com/2026/08/high-risk-food-linked-to-fatal-belgian-e-coli-outbreak",
-  "Retrieved (UTC)": "2026-08-24 04:54 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-24 04:02 UTC",
-  "Pathogen": "Listeria monocytogenes",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "Home-delivered meals linked to UK Listeria death",
-  "Link": "https://www.foodsafetynews.com/2026/08/home-delivered-meals-linked-to-uk-listeria-death",
-  "Retrieved (UTC)": "2026-08-24 04:54 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-24 03:55 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Will Iraq become PepsiCo’s next Middle East manufacturing hub?",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/24/will-iraq-become-pepsicos-next-middle-east-manufacturing-hub",
-  "Retrieved (UTC)": "2026-08-24 04:54 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-23T12:00:53Z",
-  "Pathogen": "",
-  "Event": "Enforcement",
-  "Source": "Food Safety News",
-  "Title": "The Sunday Edition: GMOs",
-  "Link": "https://www.foodsafetynews.com/2026/08/the-sunday-edition-gmos/",
-  "Retrieved (UTC)": "2026-08-23T13:51:12Z",
-  "Category": ""
  },
  {
   "Published (UTC)": "2026-08-25T04:03:49Z",
