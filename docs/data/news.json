@@ -1,25 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-09-24 20:28 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Growth by acquisition: 5 megadeals transforming food and drink",
-  "Link": "https://www.foodnavigator.com/Article/2026/09/24/growth-by-acquisition-5-megadeals-transforming-food-and-drink",
-  "Retrieved (UTC)": "2026-09-24 22:02 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-24 19:28 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Big Food warns growing scrutiny of ultra-processed foods could hit sales and costs",
-  "Link": "https://www.foodnavigator.com/Article/2026/09/24/big-food-warns-of-risks-from-ultra-processed-foods",
-  "Retrieved (UTC)": "2026-09-24 22:02 UTC",
-  "Category": "Regulatory"
- },
- {
   "Published (UTC)": "2026-09-24 16:53 UTC",
   "Pathogen": "",
   "Event": "News",
@@ -87,16 +67,6 @@
   "Title": "Protein, coffee and convenience drive Chobani’s next phase of expansion",
   "Link": "https://www.dairyreporter.com/Article/2026/09/24/chobani-targets-protein-and-coffee-growth-as-demand-for-natural-foods-rises",
   "Retrieved (UTC)": "2026-09-24 16:37 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-24 10:58 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Are consumers really asking AI what snacks to eat?",
-  "Link": "https://www.bakeryandsnacks.com/Article/2026/09/24/how-ai-is-influencing-snack-discovery-and-shopping",
-  "Retrieved (UTC)": "2026-09-24 22:02 UTC",
   "Category": "Regulatory"
  },
  {
@@ -5518,6 +5488,26 @@
   "Link": "https://foodpoisoningbulletin.com/2026/axtell-days-salmonella-outbreak-in-kansas-reported",
   "Retrieved (UTC)": "2026-08-26 01:49 UTC",
   "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-25 18:21 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "FDA Press Releases",
+  "Title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
+  "Link": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+  "Retrieved (UTC)": "2026-08-25 18:49 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25T04:03:49Z",
+  "Pathogen": "",
+  "Event": "Enforcement",
+  "Source": "Food Safety News",
+  "Title": "Contractor sentenced for faking food hygiene checks",
+  "Link": "https://www.foodsafetynews.com/2026/08/contractor-sentenced-for-faking-food-hygiene-checks/",
+  "Retrieved (UTC)": "2026-08-25T10:26:55Z",
+  "Category": ""
  },
  {
   "Published (UTC)": "2026-08-26T01:44:52Z",
