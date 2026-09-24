@@ -1,45 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-09-24 04:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "CUBOLAC SUSPENSION INJECTABLE POUR BOVINS OVINS ET CAPRINS",
-  "Link": "https://www.anses.fr/fr/decisions/medicament-veterinaire/cubolac-suspension-injectable-bovins-ovins-caprins",
-  "Retrieved (UTC)": "2026-09-24 07:18 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-24 04:05 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision: Modification de l'autorisation avec instruction administrative d'un produit phytopharmaceutique - C5SUN",
-  "Link": "https://www.anses.fr/fr/decisions/phytosanitaire/decision-modification-lautorisation-instruction-administrative-dun-produit",
-  "Retrieved (UTC)": "2026-09-24 07:18 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-24 04:02 UTC",
-  "Pathogen": "Campylobacter",
-  "Event": "News",
-  "Source": "Food Safety News",
-  "Title": "Study findings challenge Campylobacter coli knowledge",
-  "Link": "https://www.foodsafetynews.com/2026/09/study-findings-challenge-campylobacter-coli-knowledge",
-  "Retrieved (UTC)": "2026-09-24 07:18 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-09-24 03:39 UTC",
-  "Pathogen": "Hepatitis A",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Black Clams Hepatitis A Outbreak Sickens 37 With 30 Hospitalized",
-  "Link": "https://foodpoisoningbulletin.com/2026/black-clams-hepatitis-a-outbreak-sickens-37-with-30-hospitalized",
-  "Retrieved (UTC)": "2026-09-24 07:18 UTC",
-  "Category": "Outbreak"
- },
- {
   "Published (UTC)": "2026-09-24 03:22 UTC",
   "Pathogen": "E. coli / STEC",
   "Event": "Outbreak",
@@ -5537,6 +5497,26 @@
   "Title": "Why food products live or die on shelf: A retailer’s perspective",
   "Link": "https://www.bakeryandsnacks.com/Article/2026/08/25/supermarket-shelf-strategy-what-retailers-want-from-food-manufacturers",
   "Retrieved (UTC)": "2026-08-25 14:53 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 07:13 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Technicien animalier (H/F)",
+  "Link": "https://www.anses.fr/fr/content/technicien-animalier-hf",
+  "Retrieved (UTC)": "2026-08-25 08:52 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-25 06:43 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Aquaculture : de nouveaux virus chez les bars",
+  "Link": "https://www.anses.fr/fr/content/aquaculture-de-nouveaux-virus-chez-les-bars",
+  "Retrieved (UTC)": "2026-08-25 08:52 UTC",
   "Category": "Regulatory"
  },
  {
