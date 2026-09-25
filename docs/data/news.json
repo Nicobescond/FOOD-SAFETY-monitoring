@@ -1,5 +1,95 @@
 [
  {
+  "Published (UTC)": "2026-09-25 04:52 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Science Shorts: Yili dairy tech, climate research and cultivated meat",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/25/science-shorts-yili-dairy-tech-climate-research-and-cultivated-meat",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-25 04:51 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Evergreen Fresh Broccoli Sprouts Salmonella Outbreak Grows",
+  "Link": "https://foodpoisoningbulletin.com/2026/evergreen-fresh-broccoli-sprouts-salmonella-outbreak-grows",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-25 04:33 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Poisoning Bulletin",
+  "Title": "Woods Hill Table Salmonella Outbreak Sickens 10 in Massachusetts",
+  "Link": "https://foodpoisoningbulletin.com/2026/woods-hill-table-salmonella-outbreak-sickens-10-in-massachusetts",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-25 04:06 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "UK patient count in Salmonella outbreak passes 600",
+  "Link": "https://www.foodsafetynews.com/2026/09/uk-patient-count-in-salmonella-outbreak-passes-600",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-25 04:04 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Expired eggs used in meal linked to Salmonella outbreak",
+  "Link": "https://www.foodsafetynews.com/2026/09/expired-eggs-used-in-meal-linked-to-salmonella-outbreak",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-25 04:03 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Salmonella outbreak traced to sprouts spreads to 2 more states",
+  "Link": "https://www.foodsafetynews.com/2026/09/salmonella-outbreak-traced-to-sprouts-spreads-to-2-more-states",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-25 04:01 UTC",
+  "Pathogen": "E. coli / STEC",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Rare E. coli type behind large outbreak in Japan",
+  "Link": "https://www.foodsafetynews.com/2026/09/rare-e-coli-type-behind-large-outbreak-in-japan",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-24 20:28 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Growth by acquisition: 5 megadeals transforming food and drink",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/24/growth-by-acquisition-5-megadeals-transforming-food-and-drink",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-24 19:28 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Big Food warns growing scrutiny of ultra-processed foods could hit sales and costs",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/24/big-food-warns-of-risks-from-ultra-processed-foods",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
+  "Category": "Regulatory"
+ },
+ {
   "Published (UTC)": "2026-09-24 16:53 UTC",
   "Pathogen": "",
   "Event": "News",
@@ -67,6 +157,16 @@
   "Title": "Protein, coffee and convenience drive Chobani’s next phase of expansion",
   "Link": "https://www.dairyreporter.com/Article/2026/09/24/chobani-targets-protein-and-coffee-growth-as-demand-for-natural-foods-rises",
   "Retrieved (UTC)": "2026-09-24 16:37 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-24 10:58 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Are consumers really asking AI what snacks to eat?",
+  "Link": "https://www.bakeryandsnacks.com/Article/2026/09/24/how-ai-is-influencing-snack-discovery-and-shopping",
+  "Retrieved (UTC)": "2026-09-25 07:13 UTC",
   "Category": "Regulatory"
  },
  {
@@ -5428,86 +5528,6 @@
   "Link": "https://www.foodnavigator.com/Article/2026/08/26/strategies-for-food-companies-to-prepare-for-drought",
   "Retrieved (UTC)": "2026-08-26 08:53 UTC",
   "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-26 04:01 UTC",
-  "Pathogen": "Listeria monocytogenes",
-  "Event": "News",
-  "Source": "Food Safety News",
-  "Title": "Scientists flag Listeria as an emerging threat in Pakistan",
-  "Link": "https://www.foodsafetynews.com/2026/08/scientists-flag-listeria-as-an-emerging-threat-in-pakistan",
-  "Retrieved (UTC)": "2026-08-26 04:49 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-26 03:18 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "A K-Pop star toad? Jinro taps Korean wave in limited-edition soju",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/26/a-k-pop-star-toad-jinro-taps-korean-wave-in-limited-edition-soju",
-  "Retrieved (UTC)": "2026-08-26 04:49 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-26 03:15 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Can US whiskey become ‘world’s whiskey’ despite trade hurdles?",
-  "Link": "https://www.foodnavigator.com/Article/2026/08/26/can-us-whiskey-become-worlds-whiskey-despite-trade-hurdles",
-  "Retrieved (UTC)": "2026-08-26 04:49 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-26 02:14 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "The 48 State Cyclospora Outbreak Grows to 29,024 Cases",
-  "Link": "https://foodpoisoningbulletin.com/2026/the-48-state-cyclospora-outbreak-grows-to-29024-cases",
-  "Retrieved (UTC)": "2026-08-26 03:13 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-26 01:13 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "News",
-  "Source": "Food Safety News",
-  "Title": "Patient count in Cyclospora outbreaks tops 17,000",
-  "Link": "https://www.foodsafetynews.com/2026/08/patient-count-in-cyclospora-outbreaks-tops-17-000",
-  "Retrieved (UTC)": "2026-08-26 01:49 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-26 00:32 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Axtell Days Salmonella Outbreak in Kansas Reported",
-  "Link": "https://foodpoisoningbulletin.com/2026/axtell-days-salmonella-outbreak-in-kansas-reported",
-  "Retrieved (UTC)": "2026-08-26 01:49 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-08-25 18:21 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "FDA Press Releases",
-  "Title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
-  "Link": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-  "Retrieved (UTC)": "2026-08-25 18:49 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-08-25T04:03:49Z",
-  "Pathogen": "",
-  "Event": "Enforcement",
-  "Source": "Food Safety News",
-  "Title": "Contractor sentenced for faking food hygiene checks",
-  "Link": "https://www.foodsafetynews.com/2026/08/contractor-sentenced-for-faking-food-hygiene-checks/",
-  "Retrieved (UTC)": "2026-08-25T10:26:55Z",
-  "Category": ""
  },
  {
   "Published (UTC)": "2026-08-26T01:44:52Z",
