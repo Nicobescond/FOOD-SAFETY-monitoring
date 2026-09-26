@@ -1,22 +1,12 @@
 [
  {
-  "Published (UTC)": "2026-09-26 03:52 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "News",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Congress Wants Answers on USDA Ending Cyclospora Research",
-  "Link": "https://foodpoisoningbulletin.com/2026/congress-wants-answers-on-usda-ending-cyclospora-research",
-  "Retrieved (UTC)": "2026-09-26 07:08 UTC",
-  "Category": "Outbreak"
- },
- {
   "Published (UTC)": "2026-09-26 03:33 UTC",
   "Pathogen": "E. coli / STEC",
   "Event": "Recall",
   "Source": "Food Poisoning Bulletin",
   "Title": "Miyoko’s Creamery Recalls Plant Butter For E. coli Contamination",
   "Link": "https://foodpoisoningbulletin.com/2026/miyokos-creamery-recalls-plant-butter-for-e-coli-contamination",
-  "Retrieved (UTC)": "2026-09-26 07:08 UTC",
+  "Retrieved (UTC)": "2026-09-26 03:53 UTC",
   "Category": "Outbreak"
  },
  {
@@ -26,7 +16,7 @@
   "Source": "Food Safety News",
   "Title": "New E. coli outbreak linked to raw milk cheese",
   "Link": "https://www.foodsafetynews.com/2026/09/new-e-coli-outbreak-linked-to-raw-milk-cheese",
-  "Retrieved (UTC)": "2026-09-26 07:08 UTC",
+  "Retrieved (UTC)": "2026-09-26 03:53 UTC",
   "Category": "Outbreak"
  },
  {
@@ -5498,6 +5488,26 @@
   "Link": "https://www.foodnavigator.com/Article/2026/08/27/big-food-trends-in-africa",
   "Retrieved (UTC)": "2026-08-27 09:22 UTC",
   "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-27 04:05 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "More than 80 patients reported in new Salmonella outbreak",
+  "Link": "https://www.foodsafetynews.com/2026/08/more-than-80-patients-reported-in-new-salmonella-outbreak",
+  "Retrieved (UTC)": "2026-08-27 09:22 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-27 04:03 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Salmonella sickens 29 people in Spain",
+  "Link": "https://www.foodsafetynews.com/2026/08/salmonella-sickens-29-people-in-spain",
+  "Retrieved (UTC)": "2026-08-27 09:22 UTC",
+  "Category": "Outbreak"
  },
  {
   "Published (UTC)": "2026-08-27T04:01:02Z",
