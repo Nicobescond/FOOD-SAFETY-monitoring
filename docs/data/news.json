@@ -5120,6 +5120,36 @@
   "Category": "Regulatory"
  },
  {
+  "Published (UTC)": "2026-08-28 07:36 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Packaging Happenings: Jinro, Kirin and biobased packaging",
+  "Link": "https://www.foodnavigator.com/Article/2026/08/28/packaging-happenings-jinro-kirin-and-biobased-packaging",
+  "Retrieved (UTC)": "2026-08-28 18:32 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-08-28 04:06 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Illness",
+  "Source": "Food Safety News",
+  "Title": "Hundreds sick and two dead in UK Salmonella outbreaks",
+  "Link": "https://www.foodsafetynews.com/2026/08/hundreds-sick-and-two-dead-in-uk-salmonella-outbreaks",
+  "Retrieved (UTC)": "2026-08-28 05:12 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-08-28 04:04 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Source unknown as Salmonella sickens 13 in Denmark",
+  "Link": "https://www.foodsafetynews.com/2026/08/source-unknown-as-salmonella-sickens-13-in-denmark",
+  "Retrieved (UTC)": "2026-08-28 05:12 UTC",
+  "Category": "Outbreak"
+ },
+ {
   "Published (UTC)": "2026-09-03T04:04:10Z",
   "Pathogen": "",
   "Event": "Outbreak",
