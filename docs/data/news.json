@@ -1,5 +1,55 @@
 [
  {
+  "Published (UTC)": "2026-10-01 07:47 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Coordinateur d’études pour l’analyse de données sur la qualité nutritionnelle dans cadre d’un projet européen H/F",
+  "Link": "https://www.anses.fr/fr/rejoignez-nous/offre-emploi/coordinateur-detudes-lanalyse-donnees-qualite-nutritionnelle-cadre-dun",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-01 07:37 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Agentic AI in food boosts decision-making – but can enhance risks too",
+  "Link": "https://www.foodnavigator.com/Article/2026/10/01/agentic-ai-can-make-food-more-efficient-but-risks-remain",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-01 04:10 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Extension d'usages par reconnaissance mutuelle d'un produit phytopharmaceutique - EUSKATEL",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-extension-dusages-reconnaissance-mutuelle-dun",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-01 04:10 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Modification d'une autorisation de mise sur le marche d'une matière fertilisante ou d'un support de culture (autre modification) - ANGIO STRESS",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-modification-dune-autorisation-mise-marche-0",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-01 04:10 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Modification d'une autorisation de mise sur le marche d'une matière fertilisante ou d'un support de culture (autre modification) - TURN ON NG",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-modification-dune-autorisation-mise-marche-dune",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
   "Published (UTC)": "2026-10-01 04:05 UTC",
   "Pathogen": "Listeria monocytogenes",
   "Event": "Outbreak",
@@ -8,6 +58,66 @@
   "Link": "https://www.foodsafetynews.com/2026/10/new-listeria-outbreak-under-investigation",
   "Retrieved (UTC)": "2026-10-01 04:33 UTC",
   "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-10-01 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit phytopharmaceutique - ARVALIN FORTE",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-autorisation-mise-marche-dun-produit",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-01 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Modification de l'autorisation nécessitant une évaluation d'un produit phytopharmaceutique - PROWL 400",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-modification-lautorisation-necessitant-0",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-01 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision: Transfert d'une autorisation de mise sur le marché à un autre titulaire d'un produit phytopharmaceutique - MAGNUM SC",
+  "Link": "https://www.anses.fr/fr/decisions/phytosanitaire/decision-transfert-dune-autorisation-mise-marche-autre-titulaire-dun-2",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-01 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision: Modification produit phytopharmaceutique par l'autorité de décision - TOUCHDOWN FORET",
+  "Link": "https://www.anses.fr/fr/decisions/phytosanitaire/decision-modification-produit-phytopharmaceutique-lautorite-decision",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-01 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision: Modification de l'autorisation avec instruction administrative d'un produit phytopharmaceutique - VESUVE MAX",
+  "Link": "https://www.anses.fr/fr/decisions/phytosanitaire/decision-modification-lautorisation-instruction-administrative-dun-1",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-01 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Décision: Modification de l'autorisation avec instruction administrative d'un produit phytopharmaceutique - AZOXYSTAR 250 SC",
+  "Link": "https://www.anses.fr/fr/decisions/phytosanitaire/decision-modification-lautorisation-instruction-administrative-dun-0",
+  "Retrieved (UTC)": "2026-10-01 08:25 UTC",
+  "Category": "Regulatory"
  },
  {
   "Published (UTC)": "2026-10-01 03:49 UTC",
@@ -5317,46 +5427,6 @@
   "Title": "Big Food’s colour promises are colliding with supply chain reality",
   "Link": "https://www.bakeryandsnacks.com/Article/2026/09/01/us-food-dye-phase-out-puts-natural-color-supply-chain-under-pressure",
   "Retrieved (UTC)": "2026-09-01 14:43 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-01 05:27 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "‘All about health’: Bebop takes dairy-free ice cream across APAC",
-  "Link": "https://www.foodnavigator.com/Article/2026/09/01/bebop-takes-dairy-free-ice-cream-across-apac",
-  "Retrieved (UTC)": "2026-09-01 09:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-01 05:25 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Creative friction: How Taiwan taps tradition for modern Asia",
-  "Link": "https://www.foodnavigator.com/Article/2026/09/01/creative-friction-how-taiwan-taps-tradition-for-modern-asia",
-  "Retrieved (UTC)": "2026-09-01 09:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-01 05:23 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Carlsberg and Sapporo go in big on alliance in Asia, UK",
-  "Link": "https://www.foodnavigator.com/Article/2026/09/01/carlsberg-and-sapporo-go-in-big-on-alliance-in-asia-uk",
-  "Retrieved (UTC)": "2026-09-01 09:55 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-01 04:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "COMPOSIL 150 MG/ML SUSPENSION INJECTABLE POUR BOVINS ET PORCINS",
-  "Link": "https://www.anses.fr/fr/content/composil-150-mgml-suspension-injectable-pour-bovins-et-porcins",
-  "Retrieved (UTC)": "2026-09-01 04:53 UTC",
   "Category": "Regulatory"
  },
  {
