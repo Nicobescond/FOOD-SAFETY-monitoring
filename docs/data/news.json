@@ -1,15 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-10-02 19:56 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "News",
-  "Source": "Food Safety Magazine",
-  "Title": "FDA Closes Taylor Farms Lettuce Investigation, Announces Action Plan to Prevent Future Cyclospora Outbreaks",
-  "Link": "https://www.food-safety.com/articles/11889-fda-closes-taylor-farms-lettuce-investigation-announces-action-plan-to-prevent-future-cyclospora-outbreaks",
-  "Retrieved (UTC)": "2026-10-03 00:11 UTC",
-  "Category": "Outbreak"
- },
- {
   "Published (UTC)": "2026-10-02 16:10 UTC",
   "Pathogen": "Salmonella spp.",
   "Event": "Outbreak",
@@ -5378,6 +5368,16 @@
   "Link": "https://foodpoisoningbulletin.com/2026/cache-and-box-elder-county-salmonella-outbreak-in-utah-21-sick",
   "Retrieved (UTC)": "2026-09-03 05:38 UTC",
   "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-03 00:00 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Inscrivez-vous à partir du 14 septembre au concours 2027 d’inspecteur de la DGCCRF",
+  "Link": "https://www.economie.gouv.fr/dgccrf/actualites-dgccrf/inscrivez-vous-partir-du-14-septembre-au-concours-2027-dinspecteur-de-la-dgccrf",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
  },
  {
   "Published (UTC)": "2026-09-03T04:04:10Z",
