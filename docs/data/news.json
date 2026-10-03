@@ -1,15 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-10-03 04:35 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "FUROSAN 50 MG/ML SOLUTION INJECTABLE POUR BOVINS, CHEVAUX, CHIENS ET CHATS",
-  "Link": "https://www.anses.fr/fr/decisions/medicament-veterinaire/furosan-50-mgml-solution-injectable-bovins-chevaux-chiens-chats",
-  "Retrieved (UTC)": "2026-10-03 12:16 UTC",
-  "Category": "Regulatory"
- },
- {
   "Published (UTC)": "2026-10-03 03:11 UTC",
   "Pathogen": "E. coli / STEC",
   "Event": "Recall",
@@ -5258,6 +5248,86 @@
   "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10302",
   "Retrieved (UTC)": "2026-09-03 16:19 UTC",
   "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 10:06 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Hershey names new CFO as expansion strategy accelerates",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/hershey-appoints-dave-hulays-cfo-as-it-accelerates-snacking-growth-strategy",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 09:47 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Why are single-flavour brands branching out?",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/after-eights-and-terrys-chocolate-orange-new-flavours-for-single-flavour-brands",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 08:42 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Foremost Farms to shut major cheese site",
+  "Link": "https://www.dairyreporter.com/Article/2026/09/03/foremost-farms-to-shut-major-cheese-site",
+  "Retrieved (UTC)": "2026-09-04 16:14 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 08:19 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Can food brands survive the rise of agentic commerce?",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/03/the-food-brands-ai-will-favour",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 07:56 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Bilan de la surveillance des encéphalopathies spongiformes des petits ruminants 2020-2021 en France",
+  "Link": "https://www.anses.fr/fr/content/bilan-de-la-surveillance-des-encephalopathies-spongiformes-des-petits-ruminants-2020-2021-0",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03 06:41 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions: Retrait produit phytopharmaceutique par l'autorité de décision - SUNBRIGHT",
+  "Link": "https://www.anses.fr/fr/content/conclusions-retrait-produit-phytopharmaceutique-par-lautorite-de-decision-sunbright",
+  "Retrieved (UTC)": "2026-09-03 11:04 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-03T04:04:10Z",
+  "Pathogen": "",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "FDA outbreak table is showing 17 active investigations",
+  "Link": "https://www.foodsafetynews.com/2026/09/fda-outbreak-table-is-showing-17-investigations/",
+  "Retrieved (UTC)": "2026-09-04T18:02:49Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-09-03T04:01:54Z",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Asian countries rehearse food incident response",
+  "Link": "https://www.foodsafetynews.com/2026/09/asian-countries-rehearse-food-incident-response/",
+  "Retrieved (UTC)": "2026-09-04T18:02:49Z",
+  "Category": ""
  },
  {
   "Published (UTC)": "2026-09-10T03:59:56Z",
