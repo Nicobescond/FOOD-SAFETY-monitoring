@@ -1,5 +1,15 @@
 [
  {
+  "Published (UTC)": "2026-10-05 04:06 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Czech testing finds Salmonella problem in poultry meat",
+  "Link": "https://www.foodsafetynews.com/2026/10/czech-testing-finds-salmonella-problem-in-poultry-meat",
+  "Retrieved (UTC)": "2026-10-05 04:27 UTC",
+  "Category": "Outbreak"
+ },
+ {
   "Published (UTC)": "2026-10-03 12:36 UTC",
   "Pathogen": "Cyclospora",
   "Event": "Outbreak",
@@ -4887,36 +4897,6 @@
   "Title": "Foods Alive moringa powder recalled because of Salmonella contamination",
   "Link": "https://www.foodsafetynews.com/2026/09/foods-alive-moringa-powder-recalled-because-of-salmonella-contamination",
   "Retrieved (UTC)": "2026-09-06 04:21 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-09-05 03:48 UTC",
-  "Pathogen": "E. coli / STEC",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "GreenWise Frozen Blueberries E. coli O145 Outbreak Sickens 17",
-  "Link": "https://foodpoisoningbulletin.com/2026/greenwise-frozen-blueberries-e-coli-o145-outbreak-sickens-17",
-  "Retrieved (UTC)": "2026-09-05 05:33 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-09-05 03:15 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Midwest Poultry Eggs Salmonella Outbreak Ends With 134 Sick",
-  "Link": "https://foodpoisoningbulletin.com/2026/midwest-poultry-eggs-salmonella-outbreak-ends-with-134-sick",
-  "Retrieved (UTC)": "2026-09-05 05:33 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-09-05 02:50 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Evergreen Fresh Broccoli Sprouts Salmonella Outbreak Sickens 16",
-  "Link": "https://foodpoisoningbulletin.com/2026/evergreen-fresh-broccoli-sprouts-salmonella-outbreak-sickens-16",
-  "Retrieved (UTC)": "2026-09-05 05:33 UTC",
   "Category": "Outbreak"
  },
  {
