@@ -1,85 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-10-07 11:25 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Stage Master 2 « Maladies réémergentes des filières ovines et caprines » H/F",
-  "Link": "https://www.anses.fr/fr/rejoignez-nous/offre-emploi/stage-master-2-maladies-reemergentes-filieres-ovines-caprines-hf",
-  "Retrieved (UTC)": "2026-10-07 11:35 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-07 09:20 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Décision n°2026-165 relative à la composition du Comité d'Experts Spécialisé \"Matières Fertilisantes et Supports de Culture\"",
-  "Link": "https://www.anses.fr/fr/document/decision-ndeg2026-165-relative-composition-du-comite-dexperts-specialise-matieres",
-  "Retrieved (UTC)": "2026-10-07 11:35 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-07 09:18 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Safety of maximum authorised levels of cobalt and molybdenum for the environment",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10347",
-  "Retrieved (UTC)": "2026-10-07 11:35 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-07 09:17 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "EFSA",
-  "Title": "Assessment of guanidinoacetic acid (GAA) and a preparation of GAA (Creamino®) as feed additives for chickens for fattening and reared for breeding/laying, weaned piglets and pigs for fattening, for the renewal of their authorisation and its extension of…",
-  "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10357",
-  "Retrieved (UTC)": "2026-10-07 11:35 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-07 09:15 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "DGCCRF",
-  "Title": "Crédit à la consommation : quelle formule choisir pour vos besoins ?",
-  "Link": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/credit-la-consommation-quelle-formule-choisir-pour-vos-besoins",
-  "Retrieved (UTC)": "2026-10-07 11:35 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-07 08:45 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Consumers don’t trust influencers on food – or do they?",
-  "Link": "https://www.foodnavigator.com/Article/2026/10/07/influencers-widely-distrusted-yet-influential-in-food",
-  "Retrieved (UTC)": "2026-10-07 11:35 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-07 06:04 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Our top 10 most-read F&B industry news from Sept 2026",
-  "Link": "https://www.foodnavigator.com/Article/2026/10/07/our-top-10-most-read-fb-industry-news-from-sept-2026",
-  "Retrieved (UTC)": "2026-10-07 11:35 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-07 06:03 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Mengniu prepares for GLP-1 food era with functional dairy products",
-  "Link": "https://www.foodnavigator.com/Article/2026/10/07/mengniu-prepares-for-glp-1-food-era",
-  "Retrieved (UTC)": "2026-10-07 11:35 UTC",
-  "Category": "Regulatory"
- },
- {
   "Published (UTC)": "2026-10-07 04:05 UTC",
   "Pathogen": "Cyclospora",
   "Event": "News",
@@ -5577,6 +5497,46 @@
   "Title": "Avis relatif aux proliférations d'Ostreopsis spp. sur le littoral basque",
   "Link": "https://www.anses.fr/fr/content/EAUX-2025-AST-0078",
   "Retrieved (UTC)": "2026-09-07 12:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-07 10:09 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Science vs politics: Kiwi’s long road to EU health-claim approval",
+  "Link": "https://www.nutraingredients.com/Article/2026/09/07/zespris-kiwi-health-claim-why-eu-approval-took-four-years",
+  "Retrieved (UTC)": "2026-09-07 12:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-07 09:29 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "Barry Callebaut and Arla launch ambitious decarbonisation plan",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/07/barry-callebaut-and-arla-foods-launch-ambitious-decarbonisation-plan",
+  "Retrieved (UTC)": "2026-09-07 12:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-07 08:58 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "DGCCRF",
+  "Title": "Amende de 801 020 € à l’encontre de la société NEOVIA ENVIRONNEMENT pour démarchage téléphonique et entrave à l’exercice du droit de rétractation",
+  "Link": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-801-020-eur-lencontre-de-la-societe-neovia-environnement-pour-demarchage-telephonique",
+  "Retrieved (UTC)": "2026-09-07 12:18 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-07 08:54 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "EFSA",
+  "Title": "68th plenary meeting of the FAF Panel",
+  "Link": "https://www.efsa.europa.eu/en/events/68th-plenary-meeting-faf-panel",
+  "Retrieved (UTC)": "2026-09-19 15:29 UTC",
   "Category": "Regulatory"
  },
  {
