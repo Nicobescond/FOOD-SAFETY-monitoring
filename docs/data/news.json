@@ -1,45 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-10-14 21:54 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Guide méthodologique pour l’élaboration de l’expertise en vue de la création ou de la modification de tableaux de maladies professionnelles, ou de recommandations aux comités régionaux de reconnaissance des maladies professionnelles",
-  "Link": "https://www.anses.fr/fr/document/guide-methodologique-lelaboration-lexpertise-vue-creation-modification-tableaux-maladies",
-  "Retrieved (UTC)": "2026-10-14 22:05 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-14 21:38 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Avis et rapport relatifs à l'expertise sur les facteurs de risques professionnels à l'origine des cancers cutanés liés aux rayons ultra-violets",
-  "Link": "https://www.anses.fr/fr/document/avis-rapport-relatifs-lexpertise-facteurs-risques-professionnels-lorigine-cancers-cutanes",
-  "Retrieved (UTC)": "2026-10-14 22:05 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-14 15:50 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "FDA Press Releases",
-  "Title": "FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
-  "Link": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
-  "Retrieved (UTC)": "2026-10-14 22:05 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-14 15:14 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "FDA Press Releases",
-  "Title": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
-  "Link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer",
-  "Retrieved (UTC)": "2026-10-14 22:05 UTC",
-  "Category": "Regulatory"
- },
- {
   "Published (UTC)": "2026-10-14 15:12 UTC",
   "Pathogen": "",
   "Event": "News",
@@ -187,16 +147,6 @@
   "Title": "Rapport activité 2025 - Nutrivigilance",
   "Link": "https://www.anses.fr/fr/document/rapport-activite-2025-nutrivigilance",
   "Retrieved (UTC)": "2026-10-14 16:41 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-14 09:42 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "ANSES",
-  "Title": "Cancers de la peau : mieux prendre en compte l’exposition professionnelle aux UV",
-  "Link": "https://www.anses.fr/fr/actualite/cancers-peau-mieux-prendre-compte-lexposition-professionnelle-aux-uv",
-  "Retrieved (UTC)": "2026-10-14 22:05 UTC",
   "Category": "Regulatory"
  },
  {
@@ -6218,6 +6168,16 @@
   "Link": "https://foodpoisoningbulletin.com/2026/international-sprout-holding-recalls-seeds-for-e-coli-and-salmonella",
   "Retrieved (UTC)": "2026-09-15 03:44 UTC",
   "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-09-14 18:59 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "From farm to fork: 10 climate bottlenecks threatening food supply chains",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/14/10-climate-bottlenecks-in-food-supply-chains",
+  "Retrieved (UTC)": "2026-09-15 03:44 UTC",
+  "Category": "Regulatory"
  },
  {
   "Published (UTC)": "2026-09-19T03:40:18Z",
