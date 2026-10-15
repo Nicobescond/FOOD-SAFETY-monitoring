@@ -1,5 +1,125 @@
 [
  {
+  "Published (UTC)": "2026-10-15 04:06 UTC",
+  "Pathogen": "Salmonella spp.",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Spanish authorities urged to share Salmonella outbreak details",
+  "Link": "https://www.foodsafetynews.com/2026/10/spanish-authorities-urged-to-share-salmonella-outbreak-details",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "Cyclospora",
+  "Event": "Outbreak",
+  "Source": "Food Safety News",
+  "Title": "Consumer Reports wants FDA official to explain the agency's response to the Cyclospora outbreak",
+  "Link": "https://www.foodsafetynews.com/2026/10/consumer-reports-wants-fda-official-to-explain-the-agencys-response-to-the-cyclospora-outbreak",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Outbreak"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Nouveau permis de commerce parallèle d'un produit phytopharmaceutique - ENORIA SC",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-nouveau-permis-commerce-parallele-dun-produit-70",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Nouveau permis de commerce parallèle d'un produit phytopharmaceutique - AREMUS",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-nouveau-permis-commerce-parallele-dun-produit-69",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Modification des informations déclarées dans une demande en cours d'évaluation d'un produit phytopharmaceutique - CIDETRAK-OFM",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-modification-informations-declarees-demande-64",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Nouveau permis de commerce parallèle d'un produit phytopharmaceutique - MUAYTHAI",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-nouveau-permis-commerce-parallele-dun-produit-68",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Modification des informations déclarées dans une demande en cours d'évaluation d'un produit phytopharmaceutique - CAPVER",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-modification-informations-declarees-demande-63",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Suivi post-autorisation d'un produit phytopharmaceutique - CIDETRAK-OFM",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-suivi-post-autorisation-dun-produit-14",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Extension d'origine d'un permis de commerce parallèle d'un produit phytopharmaceutique - HM BASA",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-extension-dorigine-dun-permis-commerce-4",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Modification des informations déclarées dans une demande en cours d'évaluation d'un produit phytopharmaceutique - OBSERVER",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-modification-informations-declarees-demande-62",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Autorisation de mise sur le marché d'un produit phytopharmaceutique - OBSERVER",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-autorisation-mise-marche-dun-produit-152",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-10-15 04:05 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "ANSES",
+  "Title": "Conclusions d'évaluation: Modification des informations déclarées dans une demande en cours d'évaluation d'un produit phytopharmaceutique - OBSERVER",
+  "Link": "https://www.anses.fr/fr/evaluations/phytosanitaire/conclusions-devaluation-modification-informations-declarees-demande-61",
+  "Retrieved (UTC)": "2026-10-15 07:03 UTC",
+  "Category": "Regulatory"
+ },
+ {
   "Published (UTC)": "2026-10-15 00:29 UTC",
   "Pathogen": "E. coli / STEC",
   "Event": "Outbreak",
@@ -6168,16 +6288,6 @@
   "Link": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2026.10293",
   "Retrieved (UTC)": "2026-09-15 16:25 UTC",
   "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-09-15 06:30 UTC",
-  "Pathogen": "Campylobacter",
-  "Event": "News",
-  "Source": "Food Safety Magazine",
-  "Title": "Food Safety Five Ep. 37: Sanitizer Spray Efficacy, ROI of WGS, Emulsifier Health Effects, and More",
-  "Link": "https://www.food-safety.com/articles/11820-food-safety-five-ep-37-sanitizer-spray-efficacy-roi-of-wgs-emulsifier-health-effects-and-more",
-  "Retrieved (UTC)": "2026-09-16 03:41 UTC",
-  "Category": "Outbreak"
  },
  {
   "Published (UTC)": "2026-09-19T03:40:18Z",
