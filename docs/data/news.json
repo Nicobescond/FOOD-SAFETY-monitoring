@@ -6150,6 +6150,16 @@
   "Category": "Outbreak"
  },
  {
+  "Published (UTC)": "2026-09-18 16:42 UTC",
+  "Pathogen": "Campylobacter",
+  "Event": "News",
+  "Source": "Food Safety Magazine",
+  "Title": "Researchers Identify Molecule in Gut that Inhibits Campylobacter Growth",
+  "Link": "https://www.food-safety.com/articles/11844-researchers-identify-molecule-in-gut-that-inhibits-campylobacter-growth",
+  "Retrieved (UTC)": "2026-09-19 03:30 UTC",
+  "Category": "Outbreak"
+ },
+ {
   "Published (UTC)": "2026-09-19T03:40:18Z",
   "Pathogen": "",
   "Event": "News",
@@ -6166,6 +6176,26 @@
   "Source": "Food Safety News",
   "Title": "Potato chips recalled because of  undeclared soy",
   "Link": "https://www.foodsafetynews.com/2026/09/potato-chips-recalled-because-of-undeclared-soy/",
+  "Retrieved (UTC)": "2026-09-19T17:44:34Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-09-18T04:03:20Z",
+  "Pathogen": "Listeria monocytogenes",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Scottish testing finds Listeria and allergen issues",
+  "Link": "https://www.foodsafetynews.com/2026/09/scottish-testing-finds-listeria-and-allergen-issues/",
+  "Retrieved (UTC)": "2026-09-19T17:44:34Z",
+  "Category": ""
+ },
+ {
+  "Published (UTC)": "2026-09-18T04:01:03Z",
+  "Pathogen": "",
+  "Event": "Alert",
+  "Source": "Food Safety News",
+  "Title": "FDA steps up enforcement on importers because of illegal colors, pesticides and unsafe additives",
+  "Link": "https://www.foodsafetynews.com/2026/09/fda-steps-up-enforcement-on-importers-because-of-illegal-colors-pesticides-and-unsafe-additives/",
   "Retrieved (UTC)": "2026-09-19T17:44:34Z",
   "Category": ""
  },
@@ -6197,16 +6227,6 @@
   "Title": "When risk management and consumer trust collide",
   "Link": "https://www.foodsafetynews.com/2026/10/when-risk-management-and-consumer-trust-collide/",
   "Retrieved (UTC)": "2026-10-17T17:45:11Z",
-  "Category": ""
- },
- {
-  "Published (UTC)": "2026-10-17T23:10:40Z",
-  "Pathogen": "",
-  "Event": "Recall",
-  "Source": "Food Safety News",
-  "Title": "More than 1.5 million pounds of hot dogs, bacon, sausage, turkey breasts and more meat products of various brands recalled",
-  "Link": "https://www.foodsafetynews.com/2026/10/more-than-1-5-million-pounds-of-hot-dogs-bacon-sausage-turkey-breasts-and-more-meat-products-of-various-brands-recalled/",
-  "Retrieved (UTC)": "2026-10-18T17:46:35Z",
   "Category": ""
  }
 ]
