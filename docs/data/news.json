@@ -1,45 +1,5 @@
 [
  {
-  "Published (UTC)": "2026-10-21 05:49 UTC",
-  "Pathogen": "",
-  "Event": "News",
-  "Source": "Food Navigator",
-  "Title": "Less heat, more appeal: Samyang bets on swicy noodles and protein pasta",
-  "Link": "https://www.foodnavigator.com/Article/2026/10/21/samyang-bets-on-swicy-noodles-and-protein-pasta",
-  "Retrieved (UTC)": "2026-10-21 07:10 UTC",
-  "Category": "Regulatory"
- },
- {
-  "Published (UTC)": "2026-10-21 04:20 UTC",
-  "Pathogen": "Cyclospora",
-  "Event": "Outbreak",
-  "Source": "Food Poisoning Bulletin",
-  "Title": "Consumer Reports Wants Cyclospora Outbreak Answers From FDA and CDC",
-  "Link": "https://foodpoisoningbulletin.com/2026/consumer-reports-wants-cyclospora-outbreak-answers-from-fda-and-cdc",
-  "Retrieved (UTC)": "2026-10-21 07:10 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-10-21 04:03 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Outbreak",
-  "Source": "Food Safety News",
-  "Title": "UK links Salmonella outbreak to Moroccan tomatoes",
-  "Link": "https://www.foodsafetynews.com/2026/10/uk-links-salmonella-outbreak-to-moroccan-tomatoes",
-  "Retrieved (UTC)": "2026-10-21 07:10 UTC",
-  "Category": "Outbreak"
- },
- {
-  "Published (UTC)": "2026-10-21 04:01 UTC",
-  "Pathogen": "Salmonella spp.",
-  "Event": "Illness",
-  "Source": "Food Safety News",
-  "Title": "New South Wales misses Salmonella reduction target",
-  "Link": "https://www.foodsafetynews.com/2026/10/new-south-wales-misses-salmonella-reduction-target",
-  "Retrieved (UTC)": "2026-10-21 07:10 UTC",
-  "Category": "Outbreak"
- },
- {
   "Published (UTC)": "2026-10-21 03:23 UTC",
   "Pathogen": "Salmonella spp.",
   "Event": "Outbreak",
@@ -6668,6 +6628,26 @@
   "Link": "https://www.foodnavigator.com/Article/2026/09/21/5-eu-innovation-strategies-in-food-and-agriculture",
   "Retrieved (UTC)": "2026-09-21 17:56 UTC",
   "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-21 06:23 UTC",
+  "Pathogen": "",
+  "Event": "News",
+  "Source": "Food Navigator",
+  "Title": "China food policies face test as consumers seek healthier choices",
+  "Link": "https://www.foodnavigator.com/Article/2026/09/21/china-food-policies-face-test-as-consumers-seek-healthier-choices",
+  "Retrieved (UTC)": "2026-09-21 17:56 UTC",
+  "Category": "Regulatory"
+ },
+ {
+  "Published (UTC)": "2026-09-21 04:01 UTC",
+  "Pathogen": "Mycotoxin",
+  "Event": "News",
+  "Source": "Food Safety News",
+  "Title": "Finland assesses safety of plant-based dairy products",
+  "Link": "https://www.foodsafetynews.com/2026/09/finland-assesses-safety-of-plant-based-dairy-products",
+  "Retrieved (UTC)": "2026-09-21 17:56 UTC",
+  "Category": "Outbreak"
  },
  {
   "Published (UTC)": "2026-10-15T04:02:00Z",
